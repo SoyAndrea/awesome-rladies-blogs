@@ -136,6 +136,11 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [aochelpers](https://github.com/EllaKaye/aochelpers) by Ella Kaye
 - [aperol](https://github.com/EllaKaye/aperol) by Ella Kaye, Kelly
   Bodwin, Collin Schwantes
+- [arrow](https://github.com/apache/arrow/) by Neal Richardson, Ian
+  Cook, Nic Crane, Dewey Dunnington, Romain François, Jonathan Keane,
+  Bryce Mecum, Dragoș Moldovan-Grünfeld, Jeroen Ooms, Jacob
+  Wujciak-Jens, Javier Luraschi, Karl Dunkle Werner, Jeffrey Wong,
+  Apache Arrow
 - [artpack](https://github.com/Meghansaha/artpack) by Meghan Harris
 - [arttools](https://github.com/djnavarro/arttools) by Danielle Navarro
 - [ARUtools](https://github.com/ARUtools/ARUtools) by David Hope, Steffi
@@ -221,6 +226,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Anna Krystalli, Toph Allen, Maëlle Salmon, rOpenSci, Katrin Leinweber,
   Noam Ross, Arfon Smith, Jeroen Ooms, Sebastian Meyer, Michael Rustler,
   Hauke Sonnenberg, Sebastian Kreutzer, Thierry Onkelinx
+- [codewhere](https://github.com/thisisnic/codewhere/) by Nic Crane
 - [colorhex](https://github.com/drmowinckels/colorhex) by Athanasia Mo
   Mowinckel, Julia Romanowska
 - [connectapi](https://github.com/posit-dev/connectapi) by Kara Woo,
@@ -710,6 +716,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Michael Mahoney, Julia Silge, Posit Software, PBC
 - [SPBB](https://github.com/PratheepaJ/SPBBspatial) by Pratheepa
   Jeganathan
+- [speechmatics](https://github.com/thisisnic/speechmatics) by Nic Crane
 - [statsr](https://github.com/StatsWithR/statsr) by Colin Rundel, Mine
   Cetinkaya-Rundel, Merlise Clyde, David Banks
 - [stray](https://github.com/pridiltal/stray) by Priyanga Dilini

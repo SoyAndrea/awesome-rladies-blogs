@@ -316,6 +316,109 @@
     ]
   },
   {
+    "name": "arrow",
+    "title": "Integration to 'Apache' 'Arrow'",
+    "description": "'Apache' 'Arrow' <https://arrow.apache.org/> is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. This package provides an interface to the 'Arrow C++' library.",
+    "repo_url": "https://github.com/apache/arrow/",
+    "pkdown_url": "https://arrow.apache.org/docs/r/",
+    "bug_reports_url": "https://github.com/apache/arrow/issues",
+    "logo_url": {},
+    "last_updated": "2026-04-29",
+    "authors": [
+      {
+        "name": "Neal Richardson",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Ian Cook",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Nic Crane",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "nic-crane"
+      },
+      {
+        "name": "Dewey Dunnington",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-9415-4582"
+      },
+      {
+        "name": "Romain François",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-2444-4226"
+      },
+      {
+        "name": "Jonathan Keane",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "jkeane@gmail.com"
+      },
+      {
+        "name": "Bryce Mecum",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Dragoș Moldovan-Grünfeld",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Jeroen Ooms",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Jacob Wujciak-Jens",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Javier Luraschi",
+        "roles": [
+          "ctb"
+        ]
+      },
+      {
+        "name": "Karl Dunkle Werner",
+        "roles": [
+          "ctb"
+        ],
+        "orcid": "0000-0003-0523-7309"
+      },
+      {
+        "name": "Jeffrey Wong",
+        "roles": [
+          "ctb"
+        ]
+      },
+      {
+        "name": "Apache Arrow",
+        "roles": [
+          "aut",
+          "cph"
+        ]
+      }
+    ]
+  },
+  {
     "name": "artpack",
     "title": "Creates Generative Art Data",
     "description": "Create data that displays generative art when mapped into a 'ggplot2' plot. Functionality includes specialized data frame creation for geometric shapes, tools that define artistic color palettes, tools for geometrically transforming data, and other miscellaneous tools that are helpful when using 'ggplot2' for generative art.",
@@ -1993,6 +2096,28 @@
           "ctb"
         ],
         "orcid": "0000-0001-8804-4216"
+      }
+    ]
+  },
+  {
+    "name": "codewhere",
+    "title": "Find the Location of an R Package's Code",
+    "description": "Find the location of the code for an R package based on the package's name or string representation. Checks on CRAN based on information in the URL field or BioConductor and GitHub based on constructing a URL, and verifies all paths via testing for a successful response. This can be useful when automating static code analysis based on a list of package names, and similar tasks.",
+    "repo_url": "https://github.com/thisisnic/codewhere/",
+    "pkdown_url": "https://thisisnic.github.io/codewhere/",
+    "bug_reports_url": "https://github.com/thisisnic/codewhere/issues",
+    "logo_url": {},
+    "last_updated": "2024-06-05",
+    "authors": [
+      {
+        "name": "Nic Crane",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "directory_id": "nic-crane",
+        "email": "thisisnic@gmail.com"
       }
     ]
   },
@@ -11382,6 +11507,28 @@
         ],
         "directory_id": "pratheepa-jeganathan",
         "email": "jpratheepa31@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "speechmatics",
+    "title": "Client for the 'Speechmatics' Speech-to-Text API",
+    "description": "Transcribe audio files using the 'Speechmatics' speech-to-text API <https://www.speechmatics.com/>. Supports custom vocabulary, speaker diarization, punctuation control, and audio filtering.",
+    "repo_url": "https://github.com/thisisnic/speechmatics",
+    "pkdown_url": "https://thisisnic.github.io/speechmatics",
+    "bug_reports_url": "https://github.com/thisisnic/speechmatics/issues",
+    "logo_url": {},
+    "last_updated": "2026-06-06",
+    "authors": [
+      {
+        "name": "Nic Crane",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "directory_id": "nic-crane",
+        "email": "thisisnic@gmail.com"
       }
     ]
   },
