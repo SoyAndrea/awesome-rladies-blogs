@@ -372,11 +372,67 @@ owner_match <- function(pkg, handle) {
   isTRUE(tolower(pkg$`_owner` %||% "") == tolower(handle))
 }
 
+# DESCRIPTION Author fields are hard-wrapped, so a name can arrive split over a
+# line break ("Steffi\nLaZerte [aut]"). Collapse whitespace before matching or
+# those authors are silently missed.
+norm_ws <- function(x) {
+  trimws(gsub("[[:space:]]+", " ", x))
+}
+
 name_in <- function(needle, haystack) {
   if (is_blank(needle) || is_blank(haystack)) {
     return(FALSE)
   }
-  grepl(tolower(ascii(needle)), tolower(ascii(haystack)), fixed = TRUE)
+  grepl(
+    norm_ws(tolower(ascii(needle))),
+    norm_ws(tolower(ascii(haystack))),
+    fixed = TRUE
+  )
+}
+
+# Registering an R-Universe is a blanket opt-in, so a package is included unless
+# its entry opts out. packages.json is hand-written, so accept the forms people
+# actually type: a missed opt-out publishes someone's package against their
+# stated wish, which is far worse than a missed opt-in.
+opt_out_values <- c("false", "no", "off", "exclude", "0")
+
+pkg_opted_out <- function(entry) {
+  if (!is.list(entry)) {
+    return(FALSE)
+  }
+  v <- entry$rladies
+  if (is.null(v) || length(v) != 1 || is.na(v)) {
+    return(FALSE)
+  }
+  if (is.logical(v)) {
+    return(!v)
+  }
+  tolower(trimws(as.character(v))) %in% opt_out_values
+}
+
+# Package names from a remote packages.json / r-universe API end up in
+# file.path(dir, paste0(name, ".json")), and this sync commits straight to main.
+# "../../.github/workflows/x" would escape data/packages/, so hold names to the
+# R naming rules (letter first, then letters/digits/periods, no trailing period)
+# rather than trusting the upstream to have validated them.
+valid_pkg_name <- function(name) {
+  if (is_blank(name) || length(name) != 1) {
+    return(FALSE)
+  }
+  grepl("^[A-Za-z][A-Za-z0-9.]*$", name) && !grepl("\\.$", name)
+}
+
+# packages.json should be an array of entries. A single JSON object parses to a
+# named list, which would otherwise be iterated field-by-field and blow up on
+# `entry$rladies`. Wrap it so one malformed config can't take the sync down.
+as_pkg_entries <- function(cfg) {
+  if (is.null(cfg)) {
+    return(list())
+  }
+  if (!is.null(names(cfg))) {
+    return(list(cfg))
+  }
+  Filter(is.list, cfg)
 }
 
 accepted_roles <- c("cre", "aut")
@@ -385,8 +441,8 @@ roles_for <- function(name, author_text) {
   if (is_blank(author_text)) {
     return("unknown")
   }
-  hay <- tolower(ascii(author_text))
-  needle <- tolower(ascii(name))
+  hay <- norm_ws(tolower(ascii(author_text)))
+  needle <- norm_ws(tolower(ascii(name)))
   pos <- regexpr(needle, hay, fixed = TRUE)
   if (pos == -1) {
     return(character(0))
