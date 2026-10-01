@@ -237,6 +237,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [covid19tunisia](https://github.com/MounaBelaid/covid19tunisia) by
   Mouna Belaid
 - [covid19us]() by Amanda Dobbyn
+- [covidnor](https://github.com/csids/covidnor) by Chi Zhang, Richard
+  Aubrey White, CSIDS, Folkehelseinstituttet
 - [cowsay](https://github.com/sckott/cowsay) by Scott Chamberlain,
   Amanda Dobbyn, Tyler Rinker, Thomas Leeper, Noam Ross, Rich FitzJohn,
   Carson Sievert, Kiyoko Gotanda, Andy Teucher, Karl Broman,
@@ -245,6 +247,12 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [cransays](https://github.com/r-hub/cransays) by Hugo Gruson, Maëlle
   Salmon, Locke Data, Stephanie Locke, Mitchell O’Hara-Wild, Lluís
   Revilla Sancho, Jim Hester, Hadley Wickham
+- [csalert](https://github.com/csids/csalert) by Beatriz Valcarcel
+  Salamanca, Chi Zhang, Richard Aubrey White, CSIDS
+- [csdata](https://github.com/niphr/csdata) by Richard Aubrey White, Chi
+  Zhang
+- [csmaps](https://github.com/csids/csmaps) by Richard Aubrey White, Chi
+  Zhang, CSIDS
 - [cstime](https://github.com/csids/cstime) by Chi Zhang, Richard Aubrey
   White, CSIDS
 - [cubble](https://github.com/huizezhang-sherry/cubble) by H. Sherry
@@ -286,6 +294,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [dmrseq]() by Keegan Korthauer, Rafael Irizarry, Yuval Benjamini,
   Sutirtha Chakraborty
 - [dobtools](https://github.com/aedobbyn/dobtools) by Amanda Dobbyn
+- [DOPE](https://github.com/CTN-0094/DOPE) by Raymond Balise, Layla
+  Bouzoubaa, Gabriel Odom, Nathaniel Castor
 - [dySEM](https://github.com/jsakaluk/dySEM) by John Sakaluk, Omar
   Camanto, Christopher Quinn-Nilas, Merissa Prine, Robyn Kilshaw,
   Alexandra Fisher
@@ -425,6 +435,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Felix Guenther, Rickmer Schulte
 - [hmsidwR](https://github.com/Fgazzelloni/hmsidwR) by Federica
   Gazzelloni
+- [holiglm]() by Benjamin Schwendinger, Florian Schwendinger, Laura Vana
 - [HTSCluster]() by Andrea Rau, Gilles Celeux, Marie-Laure
   Martin-Magniette, Cathy Maugis- Rabusseau
 - [HTSFilter]() by Andrea Rau, Melina Gallopin, Gilles Celeux, Florence
@@ -507,6 +518,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Carolin Tietze, Nicole Grunert
 - [multilevelmod](https://github.com/tidymodels/multilevelmod) by Max
   Kuhn, Hannah Frick, RStudio
+- [mvord](https://github.com/lauravana/mvord) by Rainer Hirk, Kurt
+  Hornik, Laura Vana, Alan Gentz
 - [namer](https://github.com/jumpingrivers/namer) by Colin Gillespie,
   Steph Locke, Maëlle Salmon, Ellis Valentiner, Charlie Hadley, Jumping
   Rivers, Han Oostdijk, Patrick Schratz
@@ -550,6 +563,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Tietze
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins) by
   Allison Horst, Alison Hill, Kristen Gorman
+- [palmtree]() by Heidi Seibold, Torsten Hothorn, Achim Zeileis
 - [pangaear](https://github.com/ropensci/pangaear%20(devel)) by Scott
   Chamberlain, Kara Woo, Andrew MacDonald, Naupaka Zimmerman, Gavin
   Simpson
@@ -659,6 +673,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [scDD](https://github.com/kdkorthauer/scDD) by Keegan Korthauer
 - [scShapes](https://github.com/Malindrie/scShapes) by Malindrie
   Dharmaratne
+- [secrettext]() by Danielle Quinn, Danielle Quinn
 - [seer](https://github.com/thiyangt/seer) by Thiyanga Talagala, Rob J
   Hyndman, George Athanasopoulos
 - [sendplot](https://github.com/lshep/sendplot) by Daniel P Gaile,
@@ -709,6 +724,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [SOMbrero](https://github.com/tuxette/SOMbrero) by Nathalie Vialaneix,
   Elise Maigne, Jerome Mariette, Madalina Olteanu, Fabrice Rossi, Laura
   Bendhaiba, Julien Boelaert
+- [spareg](https://github.com/lauravana/spareg) by Laura Vana-Gür, Roman
+  Parzer, Peter Filzmoser
 - [SparseSignatures](https://github.com/danro9685/SparseSignatures) by
   Daniele Ramazzotti, Avantika Lal, Keli Liu, Luca De Sano, Robert
   Tibshirani, Arend Sidow
@@ -742,6 +759,9 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Julia Silge, Alex Hayes
 - [tidyquintro](https://github.com/drmowinckels/tidyquintro) by
   Athanasia Mo Mowinckel
+- [tidyREDCap](https://github.com/RaymondBalise/tidyREDCap) by Raymond
+  Balise, Gabriel Odom, Kyle Grealis, Anna Calderon, Layla Bouzoubaa,
+  Wayne DeFreitas, Lauren Nahodyl, Daniel Maya
 - [tidytext](https://github.com/juliasilge/tidytext) by Gabriela De
   Queiroz, Colin Fay, Emil Hvitfeldt, Os Keyes, Kanishka Misra, Tim
   Mastny, Jeff Erickson, David Robinson, Julia Silge
