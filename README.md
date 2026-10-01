@@ -32,6 +32,7 @@ aggregated file is written to `data/website/awesome_content.json`.
 - [Building Stories with Data](https://cararthompson.com/blog) by Cara
   Thompson
 - [Crystal Lewis](https://www.cghlewis.com) by Crystal Lewis
+- [Chaima Boughanmi](https://chaimabgh.netlify.app/) by Chaima Boughanmi
 - [Citizen Statistician](citizen-statistician.org) by Mine
   Çetinkaya-Rundel, Rob Gould, Andrew Zieffler
 - [Cosima Meyer](https://cosimameyer.com/) by Cosima Meyer
