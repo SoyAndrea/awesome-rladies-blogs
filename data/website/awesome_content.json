@@ -55,6 +55,7 @@
           {
             "twitter": "apreshill",
             "mastodon": "@apreshill@fosstodon.org",
+            "bluesky": "apreshill.com",
             "github": "apreshill",
             "orcid": "0000-0002-8082-1890"
           }
@@ -465,6 +466,7 @@
           {
             "twitter": "fgazzelloni",
             "mastodon": "@Fgazzelloni@fosstodon.org",
+            "bluesky": "fgazzelloni.bsky.social",
             "github": "fgazzelloni",
             "youtube": "Federica Gazzelloni",
             "website": "https://fgazzelloni.quarto.pub",
@@ -510,6 +512,7 @@
           {
             "twitter": "cantoflor_87",
             "mastodon": "@florencia@techhub.social",
+            "bluesky": "florencia-dandrea.bsky.social",
             "github": "flor14",
             "orcid": "0000-0002-0041-097X",
             "linkedin": "florenciadandrea"
@@ -793,6 +796,7 @@
           {
             "twitter": "_msquiroga",
             "mastodon": "@macarenaquiroga@datasci.social",
+            "bluesky": "macarenaquiroga.bsky.social",
             "github": "msquiroga89",
             "linkedin": "macarena-quiroga"
           }
