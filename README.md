@@ -23,6 +23,7 @@ Created from the JSON files in `data/content/` (one JSON per blog). The
 aggregated file is written to `data/website/awesome_content.json`.
 
 - [Amanda’s Data Blog](amanda.rbind.io) by Amanda Peterson
+- [Andrea Rau, PhD](https://andrea-rau.com/) by Andrea Rau
 - [Very Statisticious](https://aosmith.rbind.io) by Ariel Muldoon
 - [Alison Hill](https://www.apreshill.com) by Alison Hill
 - [Beatriz Milz’s blog](https://beatrizmilz.com/) by Beatriz Milz
