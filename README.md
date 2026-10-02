@@ -518,6 +518,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Carolin Tietze, Nicole Grunert
 - [multilevelmod](https://github.com/tidymodels/multilevelmod) by Max
   Kuhn, Hannah Frick, RStudio
+- [munsell](https://github.com/cwickham/munsell/) by Charlotte Wickham
+  <cwickham@gmail.com>, Charlotte Wickham
 - [mvord](https://github.com/lauravana/mvord) by Rainer Hirk, Kurt
   Hornik, Laura Vana, Alan Gentz
 - [namer](https://github.com/jumpingrivers/namer) by Colin Gillespie,
@@ -668,6 +670,20 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Royal Statistical Society
 - [rstanemax](https://github.com/yoshidk6/rstanemax) by Kenta Yoshida,
   Danielle Navarro, Trustees of Columbia University
+- [rticles](https://github.com/rstudio/rticles) by JJ Allaire, Yihui
+  Xie, Christophe Dervieux, Posit Software, PBC, R Foundation, Hadley
+  Wickham, Journal of Statistical Software, Ramnath Vaidyanathan,
+  Association for Computing Machinery, Carl Boettiger, Elsevier, Karl
+  Broman, Kirill Mueller, Bastiaan Quast, Randall Pruim, Ben Marwick,
+  Charlotte Wickham, Oliver Keyes, Miao Yu, Daniel Emaasit, Thierry
+  Onkelinx, Alessandro Gasparini, Marc-Andre Desautels, Dominik
+  Leutnant, MDPI, Taylor and Francis, Oğuzhan Öğreden, Dalton Hance,
+  Daniel Nüst, Petter Uvesten, Elio Campitelli, John Muschelli, Alex
+  Hayes, Zhian N. Kamvar, Noam Ross, Robrecht Cannoodt, Duncan Luguern,
+  David M. Kaplan, Sebastian Kreutzer, Shixiang Wang, Jay Hesselberth,
+  Alfredo Hernández, Stefano Coretta, Greg Macfarlane, Matthias Templ,
+  Alvaro Uzaheta, JooYoung Seo, Callum Arnold, Rob Hyndman, Dmytro
+  Perepolkin, Tom Palmer
 - [RUVcorr]() by Saskia Freytag
 - [saguaRo](https://github.com/sborrego/saguaRo) by Stacey Borrego
 - [scDD](https://github.com/kdkorthauer/scDD) by Keegan Korthauer
