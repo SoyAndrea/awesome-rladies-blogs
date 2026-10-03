@@ -198,6 +198,36 @@
     ]
   },
   {
+    "name": "animbook",
+    "title": "Visualizing Changes in Performance Measures and Demographic\nAffiliations using Animation",
+    "description": "Create an interactive visualization to be used for communication purposes. Providing the function for preparing, plotting, and animating the data. Krisanat Anukarnsakulchularp (2023) <https://github.com/KrisanatA/animbook-journal>.",
+    "repo_url": "https://github.com/KrisanatA/animbook",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/KrisanatA/animbook/issues",
+    "logo_url": "https://raw.githubusercontent.com/KrisanatA/animbook/HEAD/man/figures/logo.png",
+    "last_updated": "2025-09-02",
+    "authors": [
+      {
+        "name": "Krisanat Anukarnsakulchularp",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0009-0008-5638-7124",
+        "email": "krisanat.anu@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      }
+    ]
+  },
+  {
     "name": "AnnotationHub",
     "title": "Client to access AnnotationHub resources",
     "description": "This package provides a client for the Bioconductor AnnotationHub web resource. The AnnotationHub web resource provides a central location where genomic files (e.g., VCF, bed, wig) and other resources from standard locations (e.g., UCSC, Ensembl) can be discovered. The resource includes metadata about each resource, e.g., a textual description, tags, and date of modification. The client creates and manages a local cache of files retrieved by the user, helping with quick and reproducible access.",
@@ -1040,6 +1070,47 @@
     ]
   },
   {
+    "name": "biovizBase",
+    "title": "Basic graphic utilities for visualization of genomic data.",
+    "description": "The biovizBase package is designed to provide a set of utilities, color schemes and conventions for genomic data. It serves as the base for various high-level packages for biological data visualization. This saves development effort and encourages consistency.",
+    "repo_url": {},
+    "pkdown_url": {},
+    "bug_reports_url": {},
+    "logo_url": {},
+    "last_updated": "2026-04-28",
+    "authors": [
+      {
+        "name": "Tengfei Yin",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Michael Lawrence",
+        "roles": [
+          "aut",
+          "ths",
+          "cre"
+        ],
+        "email": "lawremi@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Johannes Rainer",
+        "roles": [
+          "ctb"
+        ]
+      }
+    ]
+  },
+  {
     "name": "biwt",
     "title": "Compute the Biweight Mean Vector and Covariance & Correlation\nMatrice",
     "description": "Compute multivariate location, scale, and correlation estimates based on Tukey's biweight M-estimator.",
@@ -1606,6 +1677,99 @@
     ]
   },
   {
+    "name": "cardinalR",
+    "title": "Collection of Data Structures",
+    "description": "A collection of functions to generate a large variety of structures in high dimensions. These data structures are useful for testing, validating, and improving algorithms used in dimensionality reduction, clustering, machine learning, and visualization.",
+    "repo_url": "https://github.com/JayaniLakshika/cardinalR",
+    "pkdown_url": "https://jayanilakshika.github.io/cardinalR/",
+    "bug_reports_url": "https://github.com/JayaniLakshika/cardinalR/issues",
+    "logo_url": "https://jayanilakshika.github.io/cardinalR/logo.png",
+    "last_updated": "2025-12-18",
+    "authors": [
+      {
+        "name": "Jayani P. Gamage",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-6265-6481",
+        "email": "jayanilakshika76@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Paul Harrison",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3980-268X"
+      },
+      {
+        "name": "Michael Lydeamore",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0001-6515-827X"
+      },
+      {
+        "name": "Thiyanga S. Talagala",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0656-9789"
+      }
+    ]
+  },
+  {
+    "name": "cassowaryr",
+    "title": "Compute Scagnostics on Pairs of Numeric Variables in a Data Set",
+    "description": "Computes a range of scatterplot diagnostics (scagnostics) on pairs of numerical variables in a data set. A range of scagnostics, including graph and association-based scagnostics described by Leland Wilkinson and Graham Wills (2008) <doi:10.1198/106186008X320465> and association-based scagnostics described by Katrin Grimm (2016,ISBN:978-3-8439-3092-5) can be computed. Summary and plotting functions are provided.",
+    "repo_url": "https://github.com/numbats/cassowaryr",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/numbats/cassowaryr/issues",
+    "logo_url": "https://raw.githubusercontent.com/numbats/cassowaryr/HEAD/man/figures/logo.png",
+    "last_updated": "2024-09-13",
+    "authors": [
+      {
+        "name": "Harriet Mason",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0009-0007-4568-8215",
+        "email": "harriet.m.mason@gmail.com"
+      },
+      {
+        "name": "Stuart Lee",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0003-1179-8436"
+      },
+      {
+        "name": "Ursula Laa",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0249-6439"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      }
+    ]
+  },
+  {
     "name": "casteval",
     "title": "Modular tools for scoring and comparing infectious disease forecasts",
     "description": "A generalized, modular set of tools to facilitate the scoring and comparing of time series forecasts.",
@@ -1844,6 +2008,32 @@
         ],
         "orcid": "0000-0001-6452-2420",
         "email": "cetinkaya.mine@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "classifly",
+    "title": "Explore Classification Models in High Dimensions",
+    "description": "Given $p$-dimensional training data containing $d$ groups (the design space), a classification algorithm (classifier) predicts which group new data belongs to. Generally the input to these algorithms is high dimensional, and the boundaries between groups will be high dimensional and perhaps non-linear. This package implements methods for understanding the division of space between the groups.",
+    "repo_url": {},
+    "pkdown_url": "http://had.co.nz/classifly",
+    "bug_reports_url": {},
+    "logo_url": {},
+    "last_updated": "2026-03-15",
+    "authors": [
+      {
+        "name": "Hadley Wickham",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "cre"
+        ],
+        "directory_id": "dianne-cook",
+        "email": "visnut@gmail.com"
       }
     ]
   },
@@ -3296,6 +3486,45 @@
     ]
   },
   {
+    "name": "DescribeDisplay",
+    "title": "An Interface to the 'DescribeDisplay' 'GGobi' Plugin",
+    "description": "Produce publication quality graphics from output of 'GGobi' describe display plugin.",
+    "repo_url": "https://github.com/ggobi/DescribeDisplay",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/ggobi/DescribeDisplay/issues",
+    "logo_url": {},
+    "last_updated": "2023-08-25",
+    "authors": [
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "directory_id": "dianne-cook",
+        "email": "dicook@monash.edu"
+      },
+      {
+        "name": "Hadley Wickham",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Andreas Buja",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Barret Schloerke",
+        "roles": [
+          "aut"
+        ]
+      }
+    ]
+  },
+  {
     "name": "devtools",
     "title": "Tools to Make Developing R Packages Easier",
     "description": "Collection of package development tools.",
@@ -3626,6 +3855,42 @@
           "ctb"
         ],
         "orcid": "0000-0003-4838-8342"
+      }
+    ]
+  },
+  {
+    "name": "ecotourism",
+    "title": "Collection of Data on Wildlife Sightings, Tourism Counts, and\nWeather from Australia",
+    "description": "This is a collection of data files for exploring sightings of wild things, relative to weather and tourism patterns in Australia.",
+    "repo_url": "https://github.com/vahdatjavad/ecotourism",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/vahdatjavad/ecotourism/issues",
+    "logo_url": "https://raw.githubusercontent.com/vahdatjavad/ecotourism/HEAD/man/figures/logo.png",
+    "last_updated": "2025-09-16",
+    "authors": [
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Lyn Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3172-4920"
+      },
+      {
+        "name": "Javad Vahdat Atashgah",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0009-0004-5845-2584",
+        "email": "vahdatjavad@gmail.com"
       }
     ]
   },
@@ -4385,6 +4650,99 @@
         ],
         "directory_id": "nicola-rennie",
         "email": "nrennie.research@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "ggbio",
+    "title": "Visualization tools for genomic data",
+    "description": "The ggbio package extends and specializes the grammar of graphics for biological data. The graphics are designed to answer common scientific questions, in particular those often asked of high throughput genomics data. All core Bioconductor data structures are supported, where appropriate. The package supports detailed views of particular genomic regions, as well as genome-wide overviews. Supported overviews include ideograms and grand linear views. High-level plots include sequence fragment length, edge-linked interval to data view, mismatch pileup, and several splicing summaries.",
+    "repo_url": "https://github.com/lawremi/ggbio",
+    "pkdown_url": "https://lawremi.github.io/ggbio/",
+    "bug_reports_url": "https://github.com/lawremi/ggbio/issues",
+    "logo_url": {},
+    "last_updated": "2026-04-28",
+    "authors": [
+      {
+        "name": "Tengfei Yin",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Michael Lawrence",
+        "roles": [
+          "aut",
+          "ths",
+          "cre"
+        ],
+        "email": "lawremi@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Sanchit Saini",
+        "roles": [
+          "ctb"
+        ]
+      },
+      {
+        "name": "Johannes Rainer",
+        "roles": [
+          "ctb"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ggdibbler",
+    "title": "Add Uncertainty to Data Visualisations",
+    "description": "A 'ggplot2' extension for visualising uncertainty with the goal of signal suppression. Usually, uncertainty visualisation focuses on expressing uncertainty as a distribution or probability, whereas 'ggdibbler' differentiates itself by viewing an uncertainty visualisation as an adjustment to an existing graphic that incorporates the inherent uncertainty in the estimates. You provide the code for an existing plot, but replace any of the variables with a vector of distributions, and it will convert the visualisation into it's signal suppression counterpart.",
+    "repo_url": "https://github.com/harriet-mason/ggdibbler",
+    "pkdown_url": "https://harriet-mason.github.io/ggdibbler/",
+    "bug_reports_url": "https://github.com/harriet-mason/ggdibbler/issues",
+    "logo_url": "https://harriet-mason.github.io/ggdibbler/logo.png",
+    "last_updated": "2025-12-06",
+    "authors": [
+      {
+        "name": "Harriet Mason",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0009-0007-4568-8215",
+        "email": "harriet.m.mason@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Sarah Goodwin",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "orcid": "0000-0001-8894-8282"
+      },
+      {
+        "name": "Susan VanderPlas",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "orcid": "0000-0002-3803-0972"
       }
     ]
   },
@@ -6725,6 +7083,88 @@
     ]
   },
   {
+    "name": "learningtower",
+    "title": "OECD PISA Datasets from 2000-2022 in an Easy-to-Use Format",
+    "description": "The Programme for International Student Assessment (PISA) is a global study conducted by the Organization for Economic Cooperation and Development (OECD) in member and non-member countries to assess educational systems by assessing 15-year-old school students academic performance in mathematics, science, and reading. This datasets contains information on their scores and other socioeconomic characteristics, information about their school and its infrastructure, as well as the countries that are taking part in the program.",
+    "repo_url": "https://github.com/kevinwang09/learningtower",
+    "pkdown_url": "https://kevinwang09.github.io/learningtower/",
+    "bug_reports_url": "https://github.com/kevinwang09/learningtower/issues",
+    "logo_url": "https://kevinwang09.github.io/learningtower/logo.png",
+    "last_updated": "2024-12-21",
+    "authors": [
+      {
+        "name": "Kevin Wang",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "kevinwangstats@gmail.com"
+      },
+      {
+        "name": "Paul Yacobellis",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Erika Siregar",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "erika-siregar"
+      },
+      {
+        "name": "Sarah Romanes",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Kim Fitter",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Giulio Valentino Dalla Riva",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Nick Tierney",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Priya Dingorkar",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Shabarish Sai Subramanian",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Guan Ru Chen",
+        "roles": [
+          "aut"
+        ]
+      }
+    ]
+  },
+  {
     "name": "learnres",
     "title": "Templates for different learnr tutorials in Spanish",
     "description": "Contains templates and themeing files.",
@@ -6913,6 +7353,42 @@
         "orcid": "0000-0002-7738-5688",
         "directory_id": "isabella-gollini",
         "email": "igollini.stats@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "mapycusmaximus",
+    "title": "Focus-Glue-Context Fisheye Transformations for Spatial\nVisualization",
+    "description": "Focus-glue-context (FGC) fisheye transformations to two-dimensional coordinates and spatial vector geometries. Implements a smooth radial distortion that enlarges a focal region, transitions through a glue ring, and preserves outside context. Methods build on generalized fisheye views and focus+context mapping. For more details see Furnas (1986) <doi:10.1145/22339.22342>, Furnas (2006) <doi:10.1145/1124772.1124921> and Yamamoto et al. (2009) <doi:10.1145/1653771.1653788>.",
+    "repo_url": "https://github.com/Alex-Nguyen-VN/mapycusmaximus",
+    "pkdown_url": "https://alex-nguyen-vn.github.io/mapycusmaximus/",
+    "bug_reports_url": "https://github.com/Alex-Nguyen-VN/mapycusmaximus/issues",
+    "logo_url": "https://alex-nguyen-vn.github.io/mapycusmaximus/logo.png",
+    "last_updated": "2026-02-06",
+    "authors": [
+      {
+        "name": "Alex Nguyen",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "email": "thanhcuong10091992@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Michael Lydeamore",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0001-6515-827X"
       }
     ]
   },
@@ -7676,6 +8152,35 @@
         "roles": [
           "aut"
         ]
+      }
+    ]
+  },
+  {
+    "name": "mulgar",
+    "title": "Functions for Pre-Processing Data for Multivariate Data\nVisualisation using Tours",
+    "description": "This is a companion to the book Cook, D. and Laa, U. (2023) <https://dicook.github.io/mulgar_book/> \"Interactively exploring high-dimensional data and models in R\". by Cook and Laa. It contains useful functions for processing data in preparation for visualising with a tour. There are also several sample data sets.",
+    "repo_url": "https://github.com/dicook/mulgar",
+    "pkdown_url": "https://dicook.github.io/mulgar/",
+    "bug_reports_url": "https://github.com/dicook/mulgar/issues",
+    "logo_url": "https://dicook.github.io/mulgar/logo.png",
+    "last_updated": "2025-07-13",
+    "authors": [
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook",
+        "email": "dicook@monash.edu"
+      },
+      {
+        "name": "Ursula Laa",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0249-6439"
       }
     ]
   },
@@ -9076,6 +9581,61 @@
     ]
   },
   {
+    "name": "plyranges",
+    "title": "A fluent interface for manipulating GenomicRanges",
+    "description": "A dplyr-like interface for interacting with the common Bioconductor classes Ranges and GenomicRanges. By providing a grammatical and consistent way of manipulating these classes their accessiblity for new Bioconductor users is hopefully increased.",
+    "repo_url": "https://github.com/tidyomics/plyranges",
+    "pkdown_url": "https://tidyomics.github.io/plyranges",
+    "bug_reports_url": "https://github.com/tidyomics/plyranges",
+    "logo_url": "https://tidyomics.github.io/plyranges/logo.png",
+    "last_updated": "2026-04-28",
+    "authors": [
+      {
+        "name": "Stuart Lee",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0003-1179-8436"
+      },
+      {
+        "name": "Michael Lawrence",
+        "roles": [
+          "aut",
+          "ctb"
+        ]
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "ctb"
+        ],
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Spencer Nystrom",
+        "roles": [
+          "ctb"
+        ],
+        "orcid": "0000-0003-1000-1579"
+      },
+      {
+        "name": "Pierre-Paul Axisa",
+        "roles": [
+          "ctb"
+        ]
+      },
+      {
+        "name": "Michael Love",
+        "roles": [
+          "ctb",
+          "cre"
+        ],
+        "email": "michaelisaiahlove@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "poissonreg",
     "title": "Model Wrappers for Poisson Regression",
     "description": "Bindings for Poisson regression models for use with the 'parsnip' package. Models include simple generalized linear models, Bayesian models, and zero-inflated Poisson models (Zeileis, Kleiber, and Jackman (2008) <doi:10.18637/jss.v027.i08>).",
@@ -9146,6 +9706,76 @@
           "aut"
         ],
         "directory_id": "eunkyung-lee"
+      }
+    ]
+  },
+  {
+    "name": "PPtreeExt",
+    "title": "Projection Pursuit Classification Tree Extensions",
+    "description": "Implements extensions to the projection pursuit tree algorithm for supervised classification, see Lee, Y. (2013), <doi:10.1214/13-EJS810> and Lee, E-K. (2018) <doi:10.18637/jss.v083.i08>. The algorithm is changed in two ways: improving prediction boundaries by modifying the choice of split points-through class subsetting; and increasing flexibility by allowing multiple splits per group.",
+    "repo_url": "https://github.com/natydasilva/PPtreeExt",
+    "pkdown_url": {},
+    "bug_reports_url": {},
+    "logo_url": "https://raw.githubusercontent.com/natydasilva/PPtreeExt/HEAD/man/figures/logo.png",
+    "last_updated": "2026-02-06",
+    "authors": [
+      {
+        "name": "Natalia da Silva",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-6031-7451",
+        "email": "natalia.dasilva@fcea.edu.uy"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Eun-Kyung Lee",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "eunkyung-lee"
+      }
+    ]
+  },
+  {
+    "name": "prefviz",
+    "title": "Visualizes Preferential Data in One and More Contests",
+    "description": "A visualization toolkit for preferential data, such as ranked-choice election results, tournament outcomes, and survey responses. The package provides methods to visualise the preference distribution of one contest with bar charts and pairwise comparisons of two contestants, as well as methods to visualise multiple contests through 2D and high-dimensional simplex plots both statically and interactively. HD simplex displays are implemented via projection methods using the 'tourr' and 'detourr' packages, enabling dynamic exploration of high-dimensional preference structure. For more details on HD simplex projection, see Wickham et al. (2011) <doi:10.21105/joss.03419>.",
+    "repo_url": "https://github.com/numbats/prefviz",
+    "pkdown_url": "https://numbats.github.io/prefviz/",
+    "bug_reports_url": "https://github.com/numbats/prefviz/issues",
+    "logo_url": {},
+    "last_updated": "2026-05-01",
+    "authors": [
+      {
+        "name": "Linh Ngo",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "linhngo66.work@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Damjan Vukcevic",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0001-7780-9586"
       }
     ]
   },
@@ -9682,6 +10312,56 @@
         "orcid": "0000-0001-7648-6578",
         "directory_id": "danielle-navarro",
         "email": "djnavarro@protonmail.com"
+      }
+    ]
+  },
+  {
+    "name": "quollr",
+    "title": "Visualising How Nonlinear Dimension Reduction Warps Your Data",
+    "description": "To construct a model in 2-D space from 2-D nonlinear dimension reduction data and then lift it to the high-dimensional space. Additionally, provides tools to visualise the model overlay the data in 2-D and high-dimensional space. Furthermore, provides summaries and diagnostics to evaluate the nonlinear dimension reduction layout.",
+    "repo_url": "https://github.com/jayanilakshika/quollr",
+    "pkdown_url": "https://jayanilakshika.github.io/quollr/",
+    "bug_reports_url": "https://github.com/jayanilakshika/quollr/issues",
+    "logo_url": "https://jayanilakshika.github.io/quollr/logo.png",
+    "last_updated": "2025-12-18",
+    "authors": [
+      {
+        "name": "Jayani P. Gamage",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-6265-6481",
+        "email": "jayanilakshika76@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Paul Harrison",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3980-268X"
+      },
+      {
+        "name": "Michael Lydeamore",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0001-6515-827X"
+      },
+      {
+        "name": "Thiyanga S. Talagala",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0656-9789"
       }
     ]
   },
@@ -12293,6 +12973,72 @@
     ]
   },
   {
+    "name": "spinebil",
+    "title": "Investigating New Projection Pursuit Index Functions",
+    "description": "Projection pursuit is used to find interesting low-dimensional projections of high-dimensional data by optimizing an index over all possible projections. The 'spinebil' package contains methods to evaluate the performance of projection pursuit index functions using tour methods. A paper describing the methods can be found at <doi:10.1007/s00180-020-00954-8>.",
+    "repo_url": "https://github.com/uschiLaa/spinebil",
+    "pkdown_url": "https://uschilaa.github.io/spinebil/index.html",
+    "bug_reports_url": "https://github.com/uschiLaa/spinebil/issues",
+    "logo_url": "https://raw.githubusercontent.com/uschiLaa/spinebil/HEAD/man/figures/spinebil.png",
+    "last_updated": "2025-10-17",
+    "authors": [
+      {
+        "name": "Ursula Laa",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0249-6439"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      },
+      {
+        "name": "Tina Rashid Jafari",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0009-0008-3605-5341",
+        "email": "tina.rashidjafari@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "spinifex",
+    "title": "Manual Tours, Manual Control of Dynamic Projections of Numeric\nMultivariate Data",
+    "description": "Data visualization tours animates linear projection of multivariate data as its basis (ie. orientation) changes. The 'spinifex' packages generates paths for manual tours by manipulating the contribution of a single variable at a time Cook & Buja (1997) <doi:10.1080/10618600.1997.10474754>. Other types of tours, such as grand (random walk) and guided (optimizing some objective function) are available in the 'tourr' package Wickham et al. <doi:10.18637/jss.v040.i02>. 'spinifex' builds on 'tourr' and can render tours with 'gganimate' and 'plotly' graphics, and allows for exporting as an .html widget and as an .gif, respectively. This work is fully discussed in Spyrison & Cook (2020) <doi:10.32614/RJ-2020-027>.",
+    "repo_url": "https://github.com/nspyrison/spinifex/",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/nspyrison/spinifex/issues",
+    "logo_url": "https://raw.githubusercontent.com/nspyrison/spinifex/HEAD/man/figures/spinifex_hex.png",
+    "last_updated": "2025-09-18",
+    "authors": [
+      {
+        "name": "Nicholas Spyrison",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-8417-0212",
+        "email": "spyrison@gmail.com"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "ths"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook"
+      }
+    ]
+  },
+  {
     "name": "statsr",
     "title": "Companion Software for the Coursera Statistics with R\nSpecialization",
     "description": "Data and functions to support Bayesian and frequentist inference and decision making for the Coursera Specialization \"Statistics with R\". See <https://github.com/StatsWithR/statsr> for more information.",
@@ -12393,6 +13139,42 @@
         "name": "Mark van der Laan",
         "roles": [
           "aut"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sugarbag",
+    "title": "Create Tessellated Hexagon Maps",
+    "description": "Create a hexagon tile map display from spatial polygons. Each polygon is represented by a hexagon tile, placed as close to it's original centroid as possible, with a focus on maintaining spatial relationship to a focal point. Developed to aid visualisation and analysis of spatial distributions across Australia, which can be challenging due to the concentration of the population on the coast and wide open interior.",
+    "repo_url": "https://github.com/srkobakian/sugarbag",
+    "pkdown_url": "https://srkobakian.github.io/sugarbag/",
+    "bug_reports_url": {},
+    "logo_url": "https://srkobakian.github.io/sugarbag/logo.png",
+    "last_updated": "2026-01-22",
+    "authors": [
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "cre",
+          "ths"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook",
+        "email": "dicook@monash.edu"
+      },
+      {
+        "name": "Stephanie Kobakian",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-4616-0048"
+      },
+      {
+        "name": "Matt Cowgill",
+        "roles": [
+          "ctb"
         ]
       }
     ]
@@ -14448,6 +15230,42 @@
         ],
         "orcid": "0000-0002-7732-4164",
         "directory_id": "shannon-pileggi"
+      }
+    ]
+  },
+  {
+    "name": "woylier",
+    "title": "Alternative Tour Frame Interpolation Method",
+    "description": "This method generates a tour path by interpolating between d-D frames in p-D using Givens rotations. The algorithm arises from the problem of zeroing elements of a matrix. This interpolation method is useful for showing specific d-D frames in the tour, as opposed to d-D planes, as done by the geodesic interpolation. It is useful for projection pursuit indexes which are not s invariant. See more details in Buj, Cook, Asimov and Hurley (2005) <doi:10.1016/S0169-7161(04)24014-7> and Batsaikhan, Cook and Laa (2023) <doi:10.48550/arXiv.2311.08181>.",
+    "repo_url": "https://github.com/numbats/woylier",
+    "pkdown_url": "https://numbats.github.io/woylier/",
+    "bug_reports_url": "https://github.com/numbats/woylier/issues",
+    "logo_url": "https://numbats.github.io/woylier/logo.png",
+    "last_updated": "2024-10-01",
+    "authors": [
+      {
+        "name": "Zola Batsaikan",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0009-0005-0055-1448"
+      },
+      {
+        "name": "Dianne Cook",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "directory_id": "dianne-cook",
+        "email": "dicook@monash.edu"
+      },
+      {
+        "name": "Ursula Laa",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-0249-6439"
       }
     ]
   },

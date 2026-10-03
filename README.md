@@ -130,6 +130,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [airports](https://github.com/OpenIntroStat/airports) by Mine
   Çetinkaya-Rundel
 - [anicon](https://github.com/emitanaka/anicon) by Emi Tanaka
+- [animbook](https://github.com/KrisanatA/animbook) by Krisanat
+  Anukarnsakulchularp, Dianne Cook
 - [AnnotationHub](https://github.com/Bioconductor/AnnotationHub) by
   Bioconductor Package Maintainer, Martin Morgan, Marc Carlson, Dan
   Tenenbaum, Sonali Arora, Valerie Oberchain, Kayla Morrell, Lori
@@ -176,6 +178,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   LaZerte, Jon Goetz
 - [BiocFileCache](https://github.com/Bioconductor/BiocFileCache) by Lori
   Shepherd, Martin Morgan
+- [biovizBase]() by Tengfei Yin, Michael Lawrence, Dianne Cook, Johannes
+  Rainer
 - [biwt]() by Jo Hardin <jo.hardin@pomona.edu>, Jo Hardin
 - [BLModel]() by Andrzej Palczewski, Jan Palczewski, Alicja Gosiewska
 - [blogdown](https://github.com/rstudio/blogdown) by Yihui Xie,
@@ -202,6 +206,11 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Neuhaus, Connie Brett
 - [capesData]() by Leonardo Biazoli, Mine Çetinkaya-Rundel, Eric
   Fernandes de Mello Araujo, Izabela R. Cardoso de Oliveira
+- [cardinalR](https://github.com/JayaniLakshika/cardinalR) by Jayani P.
+  Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S.
+  Talagala
+- [cassowaryr](https://github.com/numbats/cassowaryr) by Harriet Mason,
+  Stuart Lee, Ursula Laa, Dianne Cook
 - [casteval](https://github.com/phac-nml-phrsd/casteval) by Daniel Yu,
   Irena Papst, David Champredon, Government of Canada
 - [cellranger](https://github.com/rsheets/cellranger) by Jennifer Bryan,
@@ -217,6 +226,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Olatunji
 - [cherryblossom](https://github.com/OpenIntroStat/cherryblossom) by
   Mine Çetinkaya-Rundel
+- [classifly](http://had.co.nz/classifly) by Hadley Wickham, Dianne Cook
 - [clinPK](https://github.com/InsightRX/clinPK) by Ron Keizer, Jasmine
   Hughes, Dominic Tong, Kara Woo, InsightRX
 - [codemeta](https://github.com/cboettig/codemeta) by Carl Boettiger,
@@ -287,6 +297,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [datos](https://github.com/cienciadedatos/datos) by Riva Quiroga,
   Edgar Ruiz, Mauricio Vargas, Mauro Lepore, Rayna Harris, Daniela
   Vasquez, Joshua Kunst
+- [DescribeDisplay](https://github.com/ggobi/DescribeDisplay) by Dianne
+  Cook, Hadley Wickham, Andreas Buja, Barret Schloerke
 - [devtools](https://github.com/r-lib/devtools) by Hadley Wickham, Jim
   Hester, Winston Chang, Jennifer Bryan, Posit Software, PBC
 - [dials](https://github.com/tidymodels/dials) by Max Kuhn, Hannah
@@ -303,6 +315,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [ebdbNet](https://github.com/andreamrau/ebdbNet) by Andrea Rau
 - [ech](https://github.com/calcita/ech) by Gabriela Mathieu, Richard
   Detomasi, Tati Micheletti
+- [ecotourism](https://github.com/vahdatjavad/ecotourism) by Dianne
+  Cook, Lyn Cook, Javad Vahdat Atashgah
 - [edibble](https://github.com/emitanaka/edibble) by Emi Tanaka
 - [emmeans](https://github.com/rvlenth/emmeans/) by Russell V. Lenth,
   Julia Piaskowski, Balazs Banfai, Ben Bolker, Paul Buerkner, Iago
@@ -343,6 +357,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [geomnet](https://github.com/sctyner/geomnet) by Sam Tyner, Heike
   Hofmann, Nicholas Tierney
 - [ggauto](https://github.com/nrennie/ggauto) by Nicola Rennie
+- [ggbio](https://github.com/lawremi/ggbio) by Tengfei Yin, Michael
+  Lawrence, Dianne Cook, Sanchit Saini, Johannes Rainer
+- [ggdibbler](https://github.com/harriet-mason/ggdibbler) by Harriet
+  Mason, Dianne Cook, Sarah Goodwin, Susan VanderPlas
 - [ggflowchart](https://github.com/nrennie/ggflowchart) by Nicola Rennie
 - [ggplot2](https://github.com/tidyverse/ggplot2) by Hadley Wickham,
   Winston Chang, Lionel Henry, Thomas Lin Pedersen, Kohske Takahashi,
@@ -463,6 +481,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [JTHelpers](https://github.com/jenniferthompson/JTHelpers) by Jennifer
   Thompson, Cole Beck, Zhiguo Zhao
 - [Kmisc](https://github.com/sysilviakim/Kmisc) by Seo-young Silvia Kim
+- [learningtower](https://github.com/kevinwang09/learningtower) by Kevin
+  Wang, Paul Yacobellis, Erika Siregar, Sarah Romanes, Kim Fitter,
+  Giulio Valentino Dalla Riva, Dianne Cook, Nick Tierney, Priya
+  Dingorkar, Shabarish Sai Subramanian, Guan Ru Chen
 - [learnres](https://github.com/yabellini/learnres) by Yanina Bellini
   Saibene
 - [levelup](https://github.com/trianglegirl/levelup) by Rhian Davies
@@ -475,6 +497,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Csardi
 - [lsr](https://github.com/djnavarro/lsr) by Danielle Navarro
 - [lvm4net](http://github.com/igollini/lvm4net) by Isabella Gollini
+- [mapycusmaximus](https://github.com/Alex-Nguyen-VN/mapycusmaximus) by
+  Alex Nguyen, Dianne Cook, Michael Lydeamore
 - [meetupr](https://github.com/rladies/meetupr) by Athanasia Mo
   Mowinckel, Erin LeDell, Olga Mierzwa-Sulima, Lucy D’Agostino McGowan,
   Claudia Vitolo, Gabriela De Queiroz, Michael Beigelmacher, Augustina
@@ -517,6 +541,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Mueller-Scheessel, Martin Hinz, Clemens Schmid, Christoph Rinne,
   Daniel Knitter, Wolfgang Hamer, Dirk Seidensticker, Franziska Faupel,
   Carolin Tietze, Nicole Grunert
+- [mulgar](https://github.com/dicook/mulgar) by Dianne Cook, Ursula Laa
 - [multilevelmod](https://github.com/tidymodels/multilevelmod) by Max
   Kuhn, Hannah Frick, RStudio
 - [munsell](https://github.com/cwickham/munsell/) by Charlotte Wickham
@@ -591,10 +616,17 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Hughes, Dominic Tong, Kara Woo, Jordan Brooks, InsightRX
 - [PlackettLuce](https://github.com/hturner/PlackettLuce) by Heather
   Turner, Ioannis Kosmidis, David Firth, Jacob van Etten
+- [plyranges](https://github.com/tidyomics/plyranges) by Stuart Lee,
+  Michael Lawrence, Dianne Cook, Spencer Nystrom, Pierre-Paul Axisa,
+  Michael Love
 - [poissonreg](https://github.com/tidymodels/poissonreg) by Max Kuhn,
   Hannah Frick, Posit Software, PBC
 - [PPforest](https://github.com/natydasilva/PPforest) by Natalia da
   Silva, Dianne Cook, Eun-Kyung Lee
+- [PPtreeExt](https://github.com/natydasilva/PPtreeExt) by Natalia da
+  Silva, Dianne Cook, Eun-Kyung Lee
+- [prefviz](https://github.com/numbats/prefviz) by Linh Ngo, Dianne
+  Cook, Damjan Vukcevic
 - [pregnancy](https://github.com/EllaKaye/pregnancy) by Ella Kaye
 - [prepdat](http://github.com/ayalaallon/prepdat) by Ayala S. Allon, Roy
   Luria, James Grange, Nachshon Meiran
@@ -622,6 +654,9 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [QueryWikidataR](https://github.com/serenasignorelli/QueryWikidataR)
   by Serena Signorelli
 - [queue](https://github.com/djnavarro/queue) by Danielle Navarro
+- [quollr](https://github.com/jayanilakshika/quollr) by Jayani P.
+  Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S.
+  Talagala
 - [rainbowr](https://github.com/djnavarro/rainbowr) by Danielle Navarro
 - [RCMIP5](https://github.com/ktoddbrown/RCMIP5) by Ben Bond-Lamberty,
   Kathe Todd-Brown
@@ -751,12 +786,18 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [SPBB](https://github.com/PratheepaJ/SPBBspatial) by Pratheepa
   Jeganathan
 - [speechmatics](https://github.com/thisisnic/speechmatics) by Nic Crane
+- [spinebil](https://github.com/uschiLaa/spinebil) by Ursula Laa, Dianne
+  Cook, Tina Rashid Jafari
+- [spinifex](https://github.com/nspyrison/spinifex/) by Nicholas
+  Spyrison, Dianne Cook
 - [statsr](https://github.com/StatsWithR/statsr) by Colin Rundel, Mine
   Cetinkaya-Rundel, Merlise Clyde, David Banks
 - [stray](https://github.com/pridiltal/stray) by Priyanga Dilini
   Talagala, Rob J Hyndman, Kate Smith-Miles
 - [subsemble](https://github.com/ledell/subsemble) by Erin LeDell,
   Stephanie Sapp, Mark van der Laan
+- [sugarbag](https://github.com/srkobakian/sugarbag) by Dianne Cook,
+  Stephanie Kobakian, Matt Cowgill
 - [superheat]() by Rebecca Barter, Bin Yu
 - [SuperLearner](https://github.com/ecpolley/SuperLearner) by Eric
   Polley, Erin LeDell, Chris Kennedy, Sam Lendle, Mark van der Laan
@@ -863,6 +904,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Frick, Max Kuhn, Simon Couch, Posit Software, PBC
 - [worrrd](https://github.com/anthonypileggi/worrrd) by Anthony Pileggi,
   Shannon Pileggi
+- [woylier](https://github.com/numbats/woylier) by Zola Batsaikan,
+  Dianne Cook, Ursula Laa
 - [XICOR]() by Susan Holmes, Sourav Chatterjee
 - [zalpha]() by Clare Horscroft, Clare Horscroft
 
