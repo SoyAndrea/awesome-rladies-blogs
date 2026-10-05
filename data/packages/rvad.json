@@ -1,0 +1,27 @@
+{
+  "name": "rvad",
+  "title": "Velocity Azimuth Display of Meteorological Radars",
+  "description": "This package implement an algorithm to process radial wind from Doppler radars obtainning the proper horizontal wind. The implementation is based on Browning and Wexler (1968) <doi: 10.1175/1520-0450(1968)007%3C0105:TDOKPO%3E2.0.CO;2> with the addition of several quality controls.",
+  "repo_url": "https://github.com/paocorrales/rvad",
+  "pkdown_url": null,
+  "bug_reports_url": "https://github.com/paocorrales/rvad/issues",
+  "logo_url": null,
+  "last_updated": "2020-07-16",
+  "authors": [
+    {
+      "name": "Paola Corrales",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "email": "paola.corrales@cima.fcen.uba.ar",
+      "directory_id": "paola-corrales"
+    },
+    {
+      "name": "Elio Campitelli",
+      "roles": [
+        "ctb"
+      ]
+    }
+  ]
+}

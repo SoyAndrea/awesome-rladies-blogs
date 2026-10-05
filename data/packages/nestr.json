@@ -2,7 +2,7 @@
   "name": "nestr",
   "title": "Build Nesting or Hierarchical Structures",
   "description": "Facilitates building a nesting or hierarchical structure as a list or data frame by using a human friendly syntax.",
-  "repo_url": null,
+  "repo_url": "https://github.com/emitanaka/nestr",
   "pkdown_url": null,
   "bug_reports_url": null,
   "logo_url": null,

@@ -1,0 +1,22 @@
+{
+  "name": "rambutan",
+  "title": "Fast Link Checking Powered by 'lychee'",
+  "description": "An interface to the 'lychee' Rust crate (<https://github.com/lycheeverse/lychee>), a fast, async link checker. Wraps 'lychee-lib' via 'extendr' to check URLs, files, and directories for broken links.",
+  "repo_url": "https://github.com/drmowinckels/rambutan",
+  "pkdown_url": "http://drmowinckels.io/rambutan/",
+  "bug_reports_url": "https://github.com/drmowinckels/rambutan/issues",
+  "logo_url": "http://drmowinckels.io/rambutan/logo.png",
+  "last_updated": "2026-07-13",
+  "authors": [
+    {
+      "name": "Athanasia Mo Mowinckel",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0002-5756-0223",
+      "email": "a.m.mowinckel@psykologi.uio.no",
+      "directory_id": "athanasia-mo-mowinckel"
+    }
+  ]
+}

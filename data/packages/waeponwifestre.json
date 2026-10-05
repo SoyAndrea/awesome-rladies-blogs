@@ -1,0 +1,23 @@
+{
+  "name": "waeponwifestre",
+  "title": "A Pkgdown Template Package",
+  "description": "A personal template package for my pkgdown sites.",
+  "repo_url": "https://github.com/djnavarro/waeponwifestre",
+  "pkdown_url": "https://waeponwifestre.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/waeponwifestre/issues",
+  "logo_url": null,
+  "last_updated": "2026-07-19",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre",
+        "cph"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

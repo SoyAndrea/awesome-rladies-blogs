@@ -1,0 +1,22 @@
+{
+  "name": "sketchpad",
+  "title": "A Minimal Drawing System For Generative Art",
+  "description": "A lightweight drawing system built on S7 classes and grid graphics that can be used for generative art.",
+  "repo_url": "https://github.com/djnavarro/sketchpad",
+  "pkdown_url": "https://sketchpad.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/sketchpad/issues",
+  "logo_url": null,
+  "last_updated": "2026-08-23",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

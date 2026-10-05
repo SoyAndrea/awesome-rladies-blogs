@@ -1,0 +1,294 @@
+{
+  "managed": {
+    "agroclimatico": {
+      "handles": [
+        "paocorrales"
+      ]
+    },
+    "anicon": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "aochelpers": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "aperol": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "arttools": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "basepenguins": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "bcaquiferdata": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "bcgwcat": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "bcgwlreports": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "BradleyTerryScalable": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "canvasquiz": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "cloudflarer": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "colorhex": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "cranlint": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "datalegreyar": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "deggust": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "dir": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "edibble": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "emaxnls": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "emend": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "erglm": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "erplots": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "ertte": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "flametree": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "ggseg": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "ggseg.extra": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "ggseg.formats": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "ggseg.meshes": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "ggseg3d": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "granular": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "heritable": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "jugglr": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "LITAP": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "lsr": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "meetupr": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "mesoda": {
+      "handles": [
+        "paocorrales"
+      ]
+    },
+    "metaextractoR": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "moodlequiz": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "moosecounter": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "naturecounts": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "nestr": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "nettskjemar": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "neuromapr": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "pregnancy": {
+      "handles": [
+        "ellakaye"
+      ]
+    },
+    "quartose": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "queue": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "rambutan": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "rvad": {
+      "handles": [
+        "paocorrales"
+      ]
+    },
+    "sessioncheck": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "shinycustomloader": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "SISINTAR": {
+      "handles": [
+        "paocorrales"
+      ]
+    },
+    "sketchpad": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "smbdata": {
+      "handles": [
+        "emitanaka"
+      ]
+    },
+    "tidyquintro": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "uiothemes": {
+      "handles": [
+        "drmowinckels"
+      ]
+    },
+    "waeponwifestre": {
+      "handles": [
+        "djnavarro"
+      ]
+    },
+    "weathercan": {
+      "handles": [
+        "steffilazerte"
+      ]
+    },
+    "yowie": {
+      "handles": [
+        "emitanaka"
+      ]
+    }
+  }
+}

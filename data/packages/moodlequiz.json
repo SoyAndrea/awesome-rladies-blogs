@@ -1,0 +1,29 @@
+{
+  "name": "moodlequiz",
+  "title": "R Markdown format for 'Moodle' XML cloze quizzes",
+  "description": "Enables the creation of 'Moodle' quiz questions using literate programming with R Markdown. This makes it easy to quickly create a quiz that can be randomly replicated with new datasets, questions, and options for answers.",
+  "repo_url": "https://github.com/numbats/moodlequiz",
+  "pkdown_url": "https://numbats.github.io/moodlequiz/",
+  "bug_reports_url": "https://github.com/numbats/moodlequiz/issues",
+  "logo_url": null,
+  "last_updated": "2026-04-10",
+  "authors": [
+    {
+      "name": "Mitchell O'Hara-Wild",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0002-3813-7155",
+      "email": "mail@mitchelloharawild.com"
+    },
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "directory_id": "emi-tanaka"
+    }
+  ]
+}

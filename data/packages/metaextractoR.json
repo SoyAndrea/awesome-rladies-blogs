@@ -1,0 +1,37 @@
+{
+  "name": "metaextractoR",
+  "title": "Data Extraction for Meta-Analysis with Large Language Models",
+  "description": "Use Large Language Models (LLMs) to assist with data extraction for meta-analysis. This package incorporates three modular Shiny apps to implement a human-in-the-loop framework. (1) a manual extraction interface for abstracts, (2) refining prompt engineering and model selection, and (3) validation of LLM-generated outputs. These apps enable researchers to iteratively collaborate with LLMs, with each abstract undergoing double data extraction—once manually by a human researcher and once independently by an LLM-assisted process—to emulate the double extraction process recommended by international standards. Notably, the package runs fully on local machines, with no need for API setup or external data transfer, maximising data privacy and accessibility. Robust logging features further enhance transparency and reproducibility by recording all prompt iterations and outputs.",
+  "repo_url": "https://github.com/danyangdai/metaextractoR",
+  "pkdown_url": "https://danyangdai.github.io/metaextractoR/",
+  "bug_reports_url": "https://github.com/DanyangDai/metaextractoR/issues",
+  "logo_url": null,
+  "last_updated": "2026-04-07",
+  "authors": [
+    {
+      "name": "Danyang Dai",
+      "roles": [
+        "aut",
+        "cre",
+        "cph"
+      ],
+      "orcid": "0009-0006-3984-291X",
+      "email": "danyan.dai01@gmail.com"
+    },
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "directory_id": "emi-tanaka"
+    },
+    {
+      "name": "Jason Pole",
+      "roles": [
+        "ths"
+      ],
+      "orcid": "0000-0002-0413-5434"
+    }
+  ]
+}

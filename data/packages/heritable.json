@@ -1,0 +1,50 @@
+{
+  "name": "heritable",
+  "title": "Heritability Estimation from Linear Mixed Models",
+  "description": "Provides flexible estimation of broad- and narrow-sense heritability from linear mixed models fitted with 'asreml' or 'lme4'. Implements commonly used estimators, including the Standard, Cullis, Oakey, Piepho, and Delta methods. Supports complex model structures, marginal and environment-specific heritability for genotype-by-environment models, and confidence intervals based on parametric bootstrap. The implemented estimators include methods discussed by Schmidt et al. (2019) <doi:10.1534/genetics.119.302134>.",
+  "repo_url": "https://github.com/anu-aagi/heritable",
+  "pkdown_url": "https://anu-aagi.github.io/heritable/",
+  "bug_reports_url": null,
+  "logo_url": null,
+  "last_updated": "2026-08-18",
+  "authors": [
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "cre",
+        "aut",
+        "cph"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "email": "dr.emi.tanaka@gmail.com",
+      "directory_id": "emi-tanaka"
+    },
+    {
+      "name": "Yidi Deng",
+      "roles": [
+        "aut"
+      ],
+      "orcid": "0000-0003-0380-2124"
+    },
+    {
+      "name": "Fonti Kar",
+      "roles": [
+        "aut"
+      ],
+      "orcid": "0000-0002-2760-3974"
+    },
+    {
+      "name": "Weihao",
+      "roles": [
+        "ctb"
+      ],
+      "orcid": "0000-0003-4959-106X"
+    },
+    {
+      "name": "Paul Schmidt",
+      "roles": [
+        "ctb"
+      ]
+    }
+  ]
+}

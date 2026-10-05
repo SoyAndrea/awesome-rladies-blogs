@@ -1,0 +1,46 @@
+{
+  "name": "moosecounter",
+  "title": "Adaptive Moose Surveys",
+  "description": "Adaptive Moose surveys.",
+  "repo_url": "https://github.com/psolymos/moosecounter",
+  "pkdown_url": null,
+  "bug_reports_url": null,
+  "logo_url": null,
+  "last_updated": "2026-04-25",
+  "authors": [
+    {
+      "name": "Subhash Lele",
+      "roles": [
+        "aut"
+      ]
+    },
+    {
+      "name": "Sophie Czetwertynski",
+      "roles": [
+        "aut"
+      ]
+    },
+    {
+      "name": "Peter Solymos",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7337-1740",
+      "email": "psolymos@gmail.com"
+    },
+    {
+      "name": "Steffi LaZerte",
+      "roles": [
+        "aut"
+      ],
+      "directory_id": "steffi-lazerte"
+    },
+    {
+      "name": "Government of Yukon",
+      "roles": [
+        "fnd"
+      ]
+    }
+  ]
+}

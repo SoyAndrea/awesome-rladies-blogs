@@ -2,10 +2,10 @@
   "name": "shinycustomloader",
   "title": "Custom Loader for Shiny Outputs",
   "description": "A custom css/html or gif/image file for the loading screen in R 'shiny'. It also can use the marquee to have custom text loading screen.",
-  "repo_url": null,
+  "repo_url": "https://github.com/emitanaka/shinycustomloader",
   "pkdown_url": null,
-  "bug_reports_url": null,
-  "logo_url": null,
+  "bug_reports_url": "https://github.com/emitanaka/shinycustomloader/issues",
+  "logo_url": "https://user-images.githubusercontent.com/7620319/38168572-71e4543e-3593-11e8-9487-9c6c484b896a.png",
   "last_updated": "2018-03-27",
   "authors": [
     {

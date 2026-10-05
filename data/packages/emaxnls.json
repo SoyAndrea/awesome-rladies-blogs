@@ -1,0 +1,22 @@
+{
+  "name": "emaxnls",
+  "title": "Nonlinear Least Squares Estimation for Emax Regression Models",
+  "description": "Provides estimation and covariate selection tools for Emax regression models using nonlinear least squares methods. Supported optimisation algorithms are Gauss-Newton, Levenberg-Marquardt, and the port library for bounded optimisation. The package also provides tools to assist in simulation work using Emax regression.",
+  "repo_url": "https://github.com/djnavarro/emaxnls",
+  "pkdown_url": "https://emaxnls.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/emaxnls/issues",
+  "logo_url": null,
+  "last_updated": "2026-09-16",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "emend",
+  "title": "Cleaning Text Data with an AI Assistant",
+  "description": "Provides functions to clean and standardize messy data, including textual categories and free-text addresses, using Large Language Models. The package corrects typos, expands abbreviations, and maps inconsistent entries to standardized values. Ideal for Bioinformatics, business, and general data cleaning tasks.",
+  "repo_url": "https://github.com/anuopensci/emend",
+  "pkdown_url": "https://anuopensci.github.io/emend/",
+  "bug_reports_url": "https://github.com/anuopensci/emend/issues",
+  "logo_url": null,
+  "last_updated": "2025-04-08",
+  "authors": [
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut",
+        "cph"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "directory_id": "emi-tanaka"
+    },
+    {
+      "name": "Jiajia Li",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0009-0003-7143-9336",
+      "email": "lijia970324@gmail.com"
+    }
+  ]
+}

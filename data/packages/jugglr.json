@@ -1,0 +1,22 @@
+{
+  "name": "jugglr",
+  "title": "Juggling Pattern Validation and Visualisation",
+  "description": "Validate and visualise juggling patterns expressed in siteswap notation. Supports vanilla, synchronous, multiplex, synchronous multiplex, and passing siteswap, with tools to check pattern validity and to retrieve raw throw data for custom visualisations. Patterns can be plotted as timeline arc diagrams or ladder diagrams, and animated via the 'JugglingLab' animation server (<https://jugglinglab.org/html/animinfo.html>).",
+  "repo_url": "https://github.com/EllaKaye/jugglr",
+  "pkdown_url": "https://ellakaye.github.io/jugglr/",
+  "bug_reports_url": "https://github.com/EllaKaye/jugglr/issues",
+  "logo_url": "https://ellakaye.github.io/jugglr/logo.png",
+  "last_updated": "2026-07-08",
+  "authors": [
+    {
+      "name": "Ella Kaye",
+      "roles": [
+        "aut",
+        "cre",
+        "cph"
+      ],
+      "email": "hello@ellakaye.co.uk",
+      "directory_id": "ella-kaye"
+    }
+  ]
+}

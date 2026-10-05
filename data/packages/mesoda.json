@@ -1,0 +1,21 @@
+{
+  "name": "mesoda",
+  "title": "Mesoscale Data Assimilation - PhD Thesis",
+  "description": "En el futuro: mi tesis de doctorado. Por ahora será un compendio de análisis ordenados.",
+  "repo_url": "https://github.com/paocorrales/mesoda",
+  "pkdown_url": null,
+  "bug_reports_url": null,
+  "logo_url": null,
+  "last_updated": "2022-10-31",
+  "authors": [
+    {
+      "name": "Paola Corrales",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "email": "paola.corrales@cima.fcen.uba.ar",
+      "directory_id": "paola-corrales"
+    }
+  ]
+}

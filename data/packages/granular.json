@@ -1,0 +1,27 @@
+{
+  "name": "granular",
+  "title": "Resolving starch granule distributions",
+  "description": "Work out distributions.",
+  "repo_url": "https://github.com/csiro-crop-informatics/granular",
+  "pkdown_url": null,
+  "bug_reports_url": "https://github.com/csiro-crop-informatics/granular/issues",
+  "logo_url": null,
+  "last_updated": "2020-06-04",
+  "authors": [
+    {
+      "name": "Alex Whan",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "email": "alexwhan@gmail.com"
+    },
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut"
+      ],
+      "directory_id": "emi-tanaka"
+    }
+  ]
+}

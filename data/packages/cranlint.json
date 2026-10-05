@@ -1,0 +1,22 @@
+{
+  "name": "cranlint",
+  "title": "Static Checks for Common CRAN Submission Mistakes",
+  "description": "A personal-use package that runs static checks against a package source tree to catch recurring mistakes made before CRAN submission, such as DESCRIPTION formatting issues, fixed random seeds, and leftover debugging statements. Complements tools like 'checkhelper' and 'rcmdcheck' rather than replacing them.",
+  "repo_url": "https://github.com/djnavarro/cranlint",
+  "pkdown_url": "https://cranlint.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/cranlint/issues",
+  "logo_url": null,
+  "last_updated": "2026-08-29",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

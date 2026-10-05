@@ -1,0 +1,22 @@
+{
+  "name": "ertte",
+  "title": "Exposure-Response Tools for Time-to-Event Models",
+  "description": "Provides estimation tools for exposure-response models of time-to-event endpoints based on the 'survival' package: parametric accelerated failure time model fitting and prediction with AIC-based distribution selection, stepwise covariate modelling, and simulation-based visual predictive checks. Tested and supported for the exponential, Weibull, log-normal, and log-logistic distributions. For a model-agnostic mini-language to visualise exposure-response models (including those fitted with 'ertte'), see the companion package 'erplots'.",
+  "repo_url": "https://github.com/djnavarro/ertte",
+  "pkdown_url": "https://ertte.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/ertte/issues",
+  "logo_url": null,
+  "last_updated": "2026-10-04",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

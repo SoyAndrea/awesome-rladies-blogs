@@ -1,0 +1,45 @@
+{
+  "name": "yowie",
+  "title": "Longitudinal Wages Data from the National Longitudinal Survey of\nYouth 1979",
+  "description": "Longitudinal wages datasets and several demographic variables from the National Longitudinal Survey of Youth from 1979 to 2018. There are three data sets in this package: The wages data from the NLSY79 cohort; The wages data of the high school dropouts and; The demographic data of NLSY79 cohort.",
+  "repo_url": "https://github.com/numbats/yowie",
+  "pkdown_url": null,
+  "bug_reports_url": "https://github.com/numbats/yowie/issues",
+  "logo_url": "https://raw.githubusercontent.com/numbats/yowie/HEAD/man/figures/logo.png",
+  "last_updated": "2022-06-07",
+  "authors": [
+    {
+      "name": "Dewi Amaliah",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "email": "dlamaleeah@gmail.com"
+    },
+    {
+      "name": "Di Cook",
+      "roles": [
+        "aut"
+      ]
+    },
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut"
+      ],
+      "directory_id": "emi-tanaka"
+    },
+    {
+      "name": "Kate Hyde",
+      "roles": [
+        "ctb"
+      ]
+    },
+    {
+      "name": "Nicholas Tierney",
+      "roles": [
+        "ctb"
+      ]
+    }
+  ]
+}

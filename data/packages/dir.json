@@ -1,0 +1,23 @@
+{
+  "name": "dir",
+  "title": "Interactive Directory Listing",
+  "description": "A HTML widget for pretty directory listing with collapsible folders.",
+  "repo_url": "https://github.com/emitanaka/dir",
+  "pkdown_url": "https://emitanaka.org/dir/",
+  "bug_reports_url": "https://github.com/emitanaka/dir/issues",
+  "logo_url": null,
+  "last_updated": "2024-02-17",
+  "authors": [
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut",
+        "cre",
+        "cph"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "email": "dr.emi.tanaka@gmail.com",
+      "directory_id": "emi-tanaka"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "erglm",
+  "title": "Exposure-Response Tools for GLM-Based Models",
+  "description": "Provides estimation tools for exposure-response models based on glm(): model fitting and prediction, stepwise covariate modelling, and simulation-based visual predictive checks. Tested and supported for binomial, Poisson, Gaussian, and gamma families. For a model-agnostic mini-language to visualise exposure-response models (including those fitted with 'erglm'), see the companion package 'erplots'.",
+  "repo_url": "https://github.com/djnavarro/erglm",
+  "pkdown_url": "https://erglm.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/erglm/issues",
+  "logo_url": null,
+  "last_updated": "2026-09-29",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "erplots",
+  "title": "Model-Agnostic Exposure-Response Plots",
+  "description": "Provides a fluent mini-language for building exposure-response plots (model curves/ribbons, quantile-binned summaries, data strips, and grouped distribution panels) from observed data and a fitted exposure-response model. Designed to be model-agnostic: any model object that implements the er_predict() generic (and, optionally, er_simulate() and er_summary()) can be visualised.",
+  "repo_url": "https://github.com/djnavarro/erplots",
+  "pkdown_url": "https://erplots.djnavarro.net/",
+  "bug_reports_url": "https://github.com/djnavarro/erplots/issues",
+  "logo_url": null,
+  "last_updated": "2026-10-04",
+  "authors": [
+    {
+      "name": "Danielle Navarro",
+      "roles": [
+        "aut",
+        "cre"
+      ],
+      "orcid": "0000-0001-7648-6578",
+      "email": "djnavarro@protonmail.com",
+      "directory_id": "danielle-navarro"
+    }
+  ]
+}

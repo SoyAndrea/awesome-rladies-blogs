@@ -1,0 +1,23 @@
+{
+  "name": "canvasquiz",
+  "title": "Quiz For Canvas Learning Management System",
+  "description": "Create, manipulate and get classic quizzes directly via Canvas learning management system's API.",
+  "repo_url": "https://github.com/emitanaka/canvasquiz",
+  "pkdown_url": "http://emitanaka.org/canvasquiz/",
+  "bug_reports_url": "https://github.com/emitanaka/canvasquiz/issues",
+  "logo_url": null,
+  "last_updated": "2026-04-21",
+  "authors": [
+    {
+      "name": "Emi Tanaka",
+      "roles": [
+        "aut",
+        "cre",
+        "cph"
+      ],
+      "orcid": "0000-0002-1455-259X",
+      "email": "dr.emi.tanaka@gmail.com",
+      "directory_id": "emi-tanaka"
+    }
+  ]
+}
