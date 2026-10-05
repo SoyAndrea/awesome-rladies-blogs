@@ -105,7 +105,7 @@
     "pkdown_url": "https://docs.ropensci.org/agroclimatico/",
     "bug_reports_url": "https://github.com/ropensci/agroclimatico/issues",
     "logo_url": "https://docs.ropensci.org/agroclimatico/logo.png",
-    "last_updated": {},
+    "last_updated": "2025-05-05",
     "authors": [
       {
         "name": "Yanina Bellini Saibene",
@@ -184,7 +184,7 @@
     "pkdown_url": "https://emitanaka.github.io/anicon/",
     "bug_reports_url": "https://github.com/emitanaka/anicon/issues",
     "logo_url": {},
-    "last_updated": {},
+    "last_updated": "2026-07-13",
     "authors": [
       {
         "name": "Emi Tanaka",
@@ -1608,6 +1608,29 @@
     ]
   },
   {
+    "name": "canvasquiz",
+    "title": "Quiz For Canvas Learning Management System",
+    "description": "Create, manipulate and get classic quizzes directly via Canvas learning management system's API.",
+    "repo_url": "https://github.com/emitanaka/canvasquiz",
+    "pkdown_url": "http://emitanaka.org/canvasquiz/",
+    "bug_reports_url": "https://github.com/emitanaka/canvasquiz/issues",
+    "logo_url": {},
+    "last_updated": "2026-04-21",
+    "authors": [
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "email": "dr.emi.tanaka@gmail.com",
+        "directory_id": "emi-tanaka"
+      }
+    ]
+  },
+  {
     "name": "canvasXpress",
     "title": "Visualization Package for CanvasXpress in R",
     "description": "Enables creation of visualizations using the CanvasXpress framework in R. CanvasXpress is a standalone JavaScript library for reproducible research with complete tracking of data and end-user modifications stored in a single PNG image that can be played back. See <https://www.canvasxpress.org> for more information.",
@@ -2080,6 +2103,29 @@
           "cph",
           "fnd"
         ]
+      }
+    ]
+  },
+  {
+    "name": "cloudflarer",
+    "title": "Interface to the 'Cloudflare' API",
+    "description": "An 'R' interface to the 'Cloudflare' REST API (<https://developers.cloudflare.com/api/>). Wraps the v4 API with authenticated requests, response unwrapping, paginated list helpers, and a generic request function so users can call any endpoint that is not yet covered by a dedicated wrapper.",
+    "repo_url": "https://github.com/drmowinckels/cloudflarer",
+    "pkdown_url": "https://drmowinckels.io/cloudflarer/",
+    "bug_reports_url": "https://github.com/drmowinckels/cloudflarer/issues",
+    "logo_url": "https://drmowinckels.io/cloudflarer/logo.png",
+    "last_updated": "2026-07-09",
+    "authors": [
+      {
+        "name": "Athanasia Mo Mowinckel",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0000-0002-5756-0223",
+        "email": "a.m.mowinckel@psykologi.uio.no",
+        "directory_id": "athanasia-mo-mowinckel"
       }
     ]
   },
@@ -2653,6 +2699,28 @@
     ]
   },
   {
+    "name": "cranlint",
+    "title": "Static Checks for Common CRAN Submission Mistakes",
+    "description": "A personal-use package that runs static checks against a package source tree to catch recurring mistakes made before CRAN submission, such as DESCRIPTION formatting issues, fixed random seeds, and leftover debugging statements. Complements tools like 'checkhelper' and 'rcmdcheck' rather than replacing them.",
+    "repo_url": "https://github.com/djnavarro/cranlint",
+    "pkdown_url": "https://cranlint.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/cranlint/issues",
+    "logo_url": {},
+    "last_updated": "2026-08-29",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
+      }
+    ]
+  },
+  {
     "name": "cransays",
     "title": "Creates an Overview of CRAN Incoming Submissions",
     "description": "It scrapes the CRAN incoming FTP folder to find where each submission is.",
@@ -3138,7 +3206,7 @@
     "pkdown_url": {},
     "bug_reports_url": "https://github.com/emitanaka/datalegreyar/issues",
     "logo_url": {},
-    "last_updated": {},
+    "last_updated": "2018-07-16",
     "authors": [
       {
         "name": "Emi Tanaka",
@@ -3486,6 +3554,28 @@
     ]
   },
   {
+    "name": "deggust",
+    "title": "Visualise experimental designs from edibble as ggplot graphics",
+    "description": "Visualisation of designs as ggplot graphics.",
+    "repo_url": "https://github.com/emitanaka/deggust",
+    "pkdown_url": "http://deggust.emitanaka.org",
+    "bug_reports_url": "https://github.com/emitanaka/deggust/issues",
+    "logo_url": "http://deggust.emitanaka.org/logo.png",
+    "last_updated": "2023-12-12",
+    "authors": [
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "email": "dr.emi.tanaka@gmail.com",
+        "directory_id": "emi-tanaka"
+      }
+    ]
+  },
+  {
     "name": "DescribeDisplay",
     "title": "An Interface to the 'DescribeDisplay' 'GGobi' Plugin",
     "description": "Produce publication quality graphics from output of 'GGobi' describe display plugin.",
@@ -3608,6 +3698,29 @@
           "cph",
           "fnd"
         ]
+      }
+    ]
+  },
+  {
+    "name": "dir",
+    "title": "Interactive Directory Listing",
+    "description": "A HTML widget for pretty directory listing with collapsible folders.",
+    "repo_url": "https://github.com/emitanaka/dir",
+    "pkdown_url": "https://emitanaka.org/dir/",
+    "bug_reports_url": "https://github.com/emitanaka/dir/issues",
+    "logo_url": {},
+    "last_updated": "2024-02-17",
+    "authors": [
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "email": "dr.emi.tanaka@gmail.com",
+        "directory_id": "emi-tanaka"
       }
     ]
   },
@@ -3918,6 +4031,58 @@
     ]
   },
   {
+    "name": "emaxnls",
+    "title": "Nonlinear Least Squares Estimation for Emax Regression Models",
+    "description": "Provides estimation and covariate selection tools for Emax regression models using nonlinear least squares methods. Supported optimisation algorithms are Gauss-Newton, Levenberg-Marquardt, and the port library for bounded optimisation. The package also provides tools to assist in simulation work using Emax regression.",
+    "repo_url": "https://github.com/djnavarro/emaxnls",
+    "pkdown_url": "https://emaxnls.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/emaxnls/issues",
+    "logo_url": {},
+    "last_updated": "2026-09-16",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
+      }
+    ]
+  },
+  {
+    "name": "emend",
+    "title": "Cleaning Text Data with an AI Assistant",
+    "description": "Provides functions to clean and standardize messy data, including textual categories and free-text addresses, using Large Language Models. The package corrects typos, expands abbreviations, and maps inconsistent entries to standardized values. Ideal for Bioinformatics, business, and general data cleaning tasks.",
+    "repo_url": "https://github.com/anuopensci/emend",
+    "pkdown_url": "https://anuopensci.github.io/emend/",
+    "bug_reports_url": "https://github.com/anuopensci/emend/issues",
+    "logo_url": {},
+    "last_updated": "2025-04-08",
+    "authors": [
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut",
+          "cph"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "directory_id": "emi-tanaka"
+      },
+      {
+        "name": "Jiajia Li",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0009-0003-7143-9336",
+        "email": "lijia970324@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "emmeans",
     "title": "Estimated Marginal Means, aka Least-Squares Means",
     "description": "Obtain estimated marginal means (EMMs) for many linear, generalized linear, and mixed models. Compute contrasts or linear functions of EMMs, trends, and comparisons of slopes. Plots and other displays. Least-squares means are discussed, and the term \"estimated marginal means\" is suggested, in Searle, Speed, and Milliken (1980) Population marginal means in the linear model: An alternative to least squares means, The American Statistician 34(4), 216-221 <doi:10.1080/00031305.1980.10483031>.",
@@ -4134,6 +4299,28 @@
     ]
   },
   {
+    "name": "erglm",
+    "title": "Exposure-Response Tools for GLM-Based Models",
+    "description": "Provides estimation tools for exposure-response models based on glm(): model fitting and prediction, stepwise covariate modelling, and simulation-based visual predictive checks. Tested and supported for binomial, Poisson, Gaussian, and gamma families. For a model-agnostic mini-language to visualise exposure-response models (including those fitted with 'erglm'), see the companion package 'erplots'.",
+    "repo_url": "https://github.com/djnavarro/erglm",
+    "pkdown_url": "https://erglm.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/erglm/issues",
+    "logo_url": {},
+    "last_updated": "2026-09-29",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
+      }
+    ]
+  },
+  {
     "name": "ern",
     "title": "Effective Reproduction Number Estimation",
     "description": "Estimate the effective reproduction number from wastewater and clinical data sources.",
@@ -4166,6 +4353,50 @@
         ],
         "orcid": "0000-0001-5901-7585",
         "directory_id": "irena-papst"
+      }
+    ]
+  },
+  {
+    "name": "erplots",
+    "title": "Model-Agnostic Exposure-Response Plots",
+    "description": "Provides a fluent mini-language for building exposure-response plots (model curves/ribbons, quantile-binned summaries, data strips, and grouped distribution panels) from observed data and a fitted exposure-response model. Designed to be model-agnostic: any model object that implements the er_predict() generic (and, optionally, er_simulate() and er_summary()) can be visualised.",
+    "repo_url": "https://github.com/djnavarro/erplots",
+    "pkdown_url": "https://erplots.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/erplots/issues",
+    "logo_url": {},
+    "last_updated": "2026-10-04",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
+      }
+    ]
+  },
+  {
+    "name": "ertte",
+    "title": "Exposure-Response Tools for Time-to-Event Models",
+    "description": "Provides estimation tools for exposure-response models of time-to-event endpoints based on the 'survival' package: parametric accelerated failure time model fitting and prediction with AIC-based distribution selection, stepwise covariate modelling, and simulation-based visual predictive checks. Tested and supported for the exponential, Weibull, log-normal, and log-logistic distributions. For a model-agnostic mini-language to visualise exposure-response models (including those fitted with 'ertte'), see the companion package 'erplots'.",
+    "repo_url": "https://github.com/djnavarro/ertte",
+    "pkdown_url": "https://ertte.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/ertte/issues",
+    "logo_url": {},
+    "last_updated": "2026-10-04",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
       }
     ]
   },
@@ -5038,7 +5269,7 @@
     "repo_url": "https://github.com/ggsegverse/ggseg.formats",
     "pkdown_url": "https://ggsegverse.github.io/ggseg.formats/",
     "bug_reports_url": "https://github.com/ggsegverse/ggseg.formats/issues",
-    "logo_url": {},
+    "logo_url": "https://ggsegverse.github.io/ggseg.formats/logo.png",
     "last_updated": "2026-04-03",
     "authors": [
       {
@@ -5665,6 +5896,33 @@
           "cph",
           "fnd"
         ]
+      }
+    ]
+  },
+  {
+    "name": "granular",
+    "title": "Resolving starch granule distributions",
+    "description": "Work out distributions.",
+    "repo_url": "https://github.com/csiro-crop-informatics/granular",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/csiro-crop-informatics/granular/issues",
+    "logo_url": {},
+    "last_updated": "2020-06-04",
+    "authors": [
+      {
+        "name": "Alex Whan",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "alexwhan@gmail.com"
+      },
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "emi-tanaka"
       }
     ]
   },
@@ -6399,6 +6657,56 @@
     ]
   },
   {
+    "name": "heritable",
+    "title": "Heritability Estimation from Linear Mixed Models",
+    "description": "Provides flexible estimation of broad- and narrow-sense heritability from linear mixed models fitted with 'asreml' or 'lme4'. Implements commonly used estimators, including the Standard, Cullis, Oakey, Piepho, and Delta methods. Supports complex model structures, marginal and environment-specific heritability for genotype-by-environment models, and confidence intervals based on parametric bootstrap. The implemented estimators include methods discussed by Schmidt et al. (2019) <doi:10.1534/genetics.119.302134>.",
+    "repo_url": "https://github.com/anu-aagi/heritable",
+    "pkdown_url": "https://anu-aagi.github.io/heritable/",
+    "bug_reports_url": {},
+    "logo_url": {},
+    "last_updated": "2026-08-18",
+    "authors": [
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "cre",
+          "aut",
+          "cph"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "email": "dr.emi.tanaka@gmail.com",
+        "directory_id": "emi-tanaka"
+      },
+      {
+        "name": "Yidi Deng",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0003-0380-2124"
+      },
+      {
+        "name": "Fonti Kar",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-2760-3974"
+      },
+      {
+        "name": "Weihao",
+        "roles": [
+          "ctb"
+        ],
+        "orcid": "0000-0003-4959-106X"
+      },
+      {
+        "name": "Paul Schmidt",
+        "roles": [
+          "ctb"
+        ]
+      }
+    ]
+  },
+  {
     "name": "hexify",
     "title": "Create Hex Stickers",
     "description": "Allows the user to create hex stickers from images.",
@@ -7062,6 +7370,28 @@
     ]
   },
   {
+    "name": "jugglr",
+    "title": "Juggling Pattern Validation and Visualisation",
+    "description": "Validate and visualise juggling patterns expressed in siteswap notation. Supports vanilla, synchronous, multiplex, synchronous multiplex, and passing siteswap, with tools to check pattern validity and to retrieve raw throw data for custom visualisations. Patterns can be plotted as timeline arc diagrams or ladder diagrams, and animated via the 'JugglingLab' animation server (<https://jugglinglab.org/html/animinfo.html>).",
+    "repo_url": "https://github.com/EllaKaye/jugglr",
+    "pkdown_url": "https://ellakaye.github.io/jugglr/",
+    "bug_reports_url": "https://github.com/EllaKaye/jugglr/issues",
+    "logo_url": "https://ellakaye.github.io/jugglr/logo.png",
+    "last_updated": "2026-07-08",
+    "authors": [
+      {
+        "name": "Ella Kaye",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "email": "hello@ellakaye.co.uk",
+        "directory_id": "ella-kaye"
+      }
+    ]
+  },
+  {
     "name": "Kmisc",
     "title": "Kim Miscellaneous",
     "description": "Assortment of functions that aid R programming.",
@@ -7527,6 +7857,27 @@
     ]
   },
   {
+    "name": "mesoda",
+    "title": "Mesoscale Data Assimilation - PhD Thesis",
+    "description": "En el futuro: mi tesis de doctorado. Por ahora será un compendio de análisis ordenados.",
+    "repo_url": "https://github.com/paocorrales/mesoda",
+    "pkdown_url": {},
+    "bug_reports_url": {},
+    "logo_url": {},
+    "last_updated": "2022-10-31",
+    "authors": [
+      {
+        "name": "Paola Corrales",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "paola.corrales@cima.fcen.uba.ar",
+        "directory_id": "paola-corrales"
+      }
+    ]
+  },
+  {
     "name": "messy",
     "title": "Create Messy Data from Clean Data Frames",
     "description": "For the purposes of teaching, it is often desirable to show examples of working with messy data and how to clean it. This R package creates messy data from clean, tidy data frames so that students have a clean example to work towards.",
@@ -7546,6 +7897,43 @@
         "orcid": "0000-0003-4797-557X",
         "directory_id": "nicola-rennie",
         "email": "nrennie35@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "metaextractoR",
+    "title": "Data Extraction for Meta-Analysis with Large Language Models",
+    "description": "Use Large Language Models (LLMs) to assist with data extraction for meta-analysis. This package incorporates three modular Shiny apps to implement a human-in-the-loop framework. (1) a manual extraction interface for abstracts, (2) refining prompt engineering and model selection, and (3) validation of LLM-generated outputs. These apps enable researchers to iteratively collaborate with LLMs, with each abstract undergoing double data extraction—once manually by a human researcher and once independently by an LLM-assisted process—to emulate the double extraction process recommended by international standards. Notably, the package runs fully on local machines, with no need for API setup or external data transfer, maximising data privacy and accessibility. Robust logging features further enhance transparency and reproducibility by recording all prompt iterations and outputs.",
+    "repo_url": "https://github.com/danyangdai/metaextractoR",
+    "pkdown_url": "https://danyangdai.github.io/metaextractoR/",
+    "bug_reports_url": "https://github.com/DanyangDai/metaextractoR/issues",
+    "logo_url": {},
+    "last_updated": "2026-04-07",
+    "authors": [
+      {
+        "name": "Danyang Dai",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0009-0006-3984-291X",
+        "email": "danyan.dai01@gmail.com"
+      },
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "directory_id": "emi-tanaka"
+      },
+      {
+        "name": "Jason Pole",
+        "roles": [
+          "ths"
+        ],
+        "orcid": "0000-0002-0413-5434"
       }
     ]
   },
@@ -8079,6 +8467,81 @@
     ]
   },
   {
+    "name": "moodlequiz",
+    "title": "R Markdown format for 'Moodle' XML cloze quizzes",
+    "description": "Enables the creation of 'Moodle' quiz questions using literate programming with R Markdown. This makes it easy to quickly create a quiz that can be randomly replicated with new datasets, questions, and options for answers.",
+    "repo_url": "https://github.com/numbats/moodlequiz",
+    "pkdown_url": "https://numbats.github.io/moodlequiz/",
+    "bug_reports_url": "https://github.com/numbats/moodlequiz/issues",
+    "logo_url": {},
+    "last_updated": "2026-04-10",
+    "authors": [
+      {
+        "name": "Mitchell O'Hara-Wild",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-3813-7155",
+        "email": "mail@mitchelloharawild.com"
+      },
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut"
+        ],
+        "orcid": "0000-0002-1455-259X",
+        "directory_id": "emi-tanaka"
+      }
+    ]
+  },
+  {
+    "name": "moosecounter",
+    "title": "Adaptive Moose Surveys",
+    "description": "Adaptive Moose surveys.",
+    "repo_url": "https://github.com/psolymos/moosecounter",
+    "pkdown_url": {},
+    "bug_reports_url": {},
+    "logo_url": {},
+    "last_updated": "2026-04-25",
+    "authors": [
+      {
+        "name": "Subhash Lele",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Sophie Czetwertynski",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Peter Solymos",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7337-1740",
+        "email": "psolymos@gmail.com"
+      },
+      {
+        "name": "Steffi LaZerte",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "steffi-lazerte"
+      },
+      {
+        "name": "Government of Yukon",
+        "roles": [
+          "fnd"
+        ]
+      }
+    ]
+  },
+  {
     "name": "mortAAR",
     "title": "Analysis of Archaeological Mortality Data",
     "description": "A collection of functions for the analysis of archaeological mortality data (on the topic see e.g. Chamberlain 2006 <https://books.google.de/books?id=nG5FoO_becAC&lpg=PA27&ots=LG0b_xrx6O&dq=life%20table%20archaeology&pg=PA27#v=onepage&q&f=false>). It takes demographic data in different formats and displays the result in a standard life table as well as plots the relevant indices (percentage of deaths, survivorship, probability of death, life expectancy, percentage of population). It also checks for possible biases in the age structure and applies corrections to life tables.",
@@ -8384,7 +8847,7 @@
     "name": "nestr",
     "title": "Build Nesting or Hierarchical Structures",
     "description": "Facilitates building a nesting or hierarchical structure as a list or data frame by using a human friendly syntax.",
-    "repo_url": {},
+    "repo_url": "https://github.com/emitanaka/nestr",
     "pkdown_url": {},
     "bug_reports_url": {},
     "logo_url": {},
@@ -10388,6 +10851,28 @@
     ]
   },
   {
+    "name": "rambutan",
+    "title": "Fast Link Checking Powered by 'lychee'",
+    "description": "An interface to the 'lychee' Rust crate (<https://github.com/lycheeverse/lychee>), a fast, async link checker. Wraps 'lychee-lib' via 'extendr' to check URLs, files, and directories for broken links.",
+    "repo_url": "https://github.com/drmowinckels/rambutan",
+    "pkdown_url": "http://drmowinckels.io/rambutan/",
+    "bug_reports_url": "https://github.com/drmowinckels/rambutan/issues",
+    "logo_url": "http://drmowinckels.io/rambutan/logo.png",
+    "last_updated": "2026-07-13",
+    "authors": [
+      {
+        "name": "Athanasia Mo Mowinckel",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0002-5756-0223",
+        "email": "a.m.mowinckel@psykologi.uio.no",
+        "directory_id": "athanasia-mo-mowinckel"
+      }
+    ]
+  },
+  {
     "name": "RCMIP5",
     "title": "Tools for Manipulating and Summarizing CMIP5 Data",
     "description": "Working with CMIP5 data can be tricky, forcing scientists to write custom scripts and programs. The `RCMIP5` package aims to ease this process, providing a standard, robust, and high-performance set of scripts to (i) explore what data have been downloaded, (ii) identify missing data, (iii) average (or apply other mathematical operations) across experimental ensembles, (iv) produce both temporal and spatial statistical summaries, and (v) produce easy-to-work-with graphical and data summaries.",
@@ -11749,6 +12234,33 @@
     ]
   },
   {
+    "name": "rvad",
+    "title": "Velocity Azimuth Display of Meteorological Radars",
+    "description": "This package implement an algorithm to process radial wind from Doppler radars obtainning the proper horizontal wind. The implementation is based on Browning and Wexler (1968) <doi: 10.1175/1520-0450(1968)007%3C0105:TDOKPO%3E2.0.CO;2> with the addition of several quality controls.",
+    "repo_url": "https://github.com/paocorrales/rvad",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/paocorrales/rvad/issues",
+    "logo_url": {},
+    "last_updated": "2020-07-16",
+    "authors": [
+      {
+        "name": "Paola Corrales",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "paola.corrales@cima.fcen.uba.ar",
+        "directory_id": "paola-corrales"
+      },
+      {
+        "name": "Elio Campitelli",
+        "roles": [
+          "ctb"
+        ]
+      }
+    ]
+  },
+  {
     "name": "saguaRo",
     "title": "Arizona desert colors in R",
     "description": "Combining Arizona's desert beauty and the exciting world of data visualization. This package highlights the beautiful images taken in the Sonoran desert as captured by Tucson residents and friends of the Arizona-Sonora Desert Museum.",
@@ -12070,10 +12582,10 @@
     "name": "shinycustomloader",
     "title": "Custom Loader for Shiny Outputs",
     "description": "A custom css/html or gif/image file for the loading screen in R 'shiny'. It also can use the marquee to have custom text loading screen.",
-    "repo_url": {},
+    "repo_url": "https://github.com/emitanaka/shinycustomloader",
     "pkdown_url": {},
-    "bug_reports_url": {},
-    "logo_url": {},
+    "bug_reports_url": "https://github.com/emitanaka/shinycustomloader/issues",
+    "logo_url": "https://user-images.githubusercontent.com/7620319/38168572-71e4543e-3593-11e8-9487-9c6c484b896a.png",
     "last_updated": "2018-03-27",
     "authors": [
       {
@@ -12428,6 +12940,28 @@
         "orcid": "0000-0003-1156-0639",
         "directory_id": "nathalie-vialaneix",
         "email": "nathalie.vialaneix@inrae.fr"
+      }
+    ]
+  },
+  {
+    "name": "sketchpad",
+    "title": "A Minimal Drawing System For Generative Art",
+    "description": "A lightweight drawing system built on S7 classes and grid graphics that can be used for generative art.",
+    "repo_url": "https://github.com/djnavarro/sketchpad",
+    "pkdown_url": "https://sketchpad.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/sketchpad/issues",
+    "logo_url": {},
+    "last_updated": "2026-08-23",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
       }
     ]
   },
@@ -14825,6 +15359,29 @@
     ]
   },
   {
+    "name": "waeponwifestre",
+    "title": "A Pkgdown Template Package",
+    "description": "A personal template package for my pkgdown sites.",
+    "repo_url": "https://github.com/djnavarro/waeponwifestre",
+    "pkdown_url": "https://waeponwifestre.djnavarro.net/",
+    "bug_reports_url": "https://github.com/djnavarro/waeponwifestre/issues",
+    "logo_url": {},
+    "last_updated": "2026-07-19",
+    "authors": [
+      {
+        "name": "Danielle Navarro",
+        "roles": [
+          "aut",
+          "cre",
+          "cph"
+        ],
+        "orcid": "0000-0001-7648-6578",
+        "email": "djnavarro@protonmail.com",
+        "directory_id": "danielle-navarro"
+      }
+    ]
+  },
+  {
     "name": "washi",
     "title": "Washington Soil Health Initiative Branding",
     "description": "Create plots and tables in a consistent style with WaSHI (Washington Soil Health Initiative) branding. Use 'washi' to easily style your 'ggplot2' plots and 'flextable' tables.",
@@ -15292,6 +15849,51 @@
         "name": "Sourav Chatterjee",
         "roles": [
           "aut"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "yowie",
+    "title": "Longitudinal Wages Data from the National Longitudinal Survey of\nYouth 1979",
+    "description": "Longitudinal wages datasets and several demographic variables from the National Longitudinal Survey of Youth from 1979 to 2018. There are three data sets in this package: The wages data from the NLSY79 cohort; The wages data of the high school dropouts and; The demographic data of NLSY79 cohort.",
+    "repo_url": "https://github.com/numbats/yowie",
+    "pkdown_url": {},
+    "bug_reports_url": "https://github.com/numbats/yowie/issues",
+    "logo_url": "https://raw.githubusercontent.com/numbats/yowie/HEAD/man/figures/logo.png",
+    "last_updated": "2022-06-07",
+    "authors": [
+      {
+        "name": "Dewi Amaliah",
+        "roles": [
+          "aut",
+          "cre"
+        ],
+        "email": "dlamaleeah@gmail.com"
+      },
+      {
+        "name": "Di Cook",
+        "roles": [
+          "aut"
+        ]
+      },
+      {
+        "name": "Emi Tanaka",
+        "roles": [
+          "aut"
+        ],
+        "directory_id": "emi-tanaka"
+      },
+      {
+        "name": "Kate Hyde",
+        "roles": [
+          "ctb"
+        ]
+      },
+      {
+        "name": "Nicholas Tierney",
+        "roles": [
+          "ctb"
         ]
       }
     ]

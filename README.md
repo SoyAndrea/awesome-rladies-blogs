@@ -202,6 +202,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Couch, Qiushi Yan, Max Kuhn, Posit Software, PBC
 - [butcher](https://github.com/tidymodels/butcher) by Joyce Cahoon,
   Davis Vaughan, Max Kuhn, Alex Hayes, Julia Silge, Posit Software, PBC
+- [canvasquiz](https://github.com/emitanaka/canvasquiz) by Emi Tanaka
 - [canvasXpress](https://github.com/neuhausi/canvasXpress) by Isaac
   Neuhaus, Connie Brett
 - [capesData]() by Leonardo Biazoli, Mine Çetinkaya-Rundel, Eric
@@ -229,6 +230,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [classifly](http://had.co.nz/classifly) by Hadley Wickham, Dianne Cook
 - [clinPK](https://github.com/InsightRX/clinPK) by Ron Keizer, Jasmine
   Hughes, Dominic Tong, Kara Woo, InsightRX
+- [cloudflarer](https://github.com/drmowinckels/cloudflarer) by
+  Athanasia Mo Mowinckel
 - [codemeta](https://github.com/cboettig/codemeta) by Carl Boettiger,
   Maëlle Salmon, Katrin Leinweber, Noam Ross, Arfon Smith, Jeroen Ooms,
   Sebastian Meyer, Michael Rustler, Hauke Sonnenberg, Sebastian
@@ -255,6 +258,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Carson Sievert, Kiyoko Gotanda, Andy Teucher, Karl Broman,
   Franz-Sebastian Krah, Lucy D’Agostino McGowan, Guangchuang Yu, Philipp
   Boersch-Supan, Andreas Brandmaier, Marion Louveaux, David Schoch
+- [cranlint](https://github.com/djnavarro/cranlint) by Danielle Navarro
 - [cransays](https://github.com/r-hub/cransays) by Hugo Gruson, Maëlle
   Salmon, Locke Data, Stephanie Locke, Mitchell O’Hara-Wild, Lluís
   Revilla Sancho, Jim Hester, Hadley Wickham
@@ -297,12 +301,14 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [datos](https://github.com/cienciadedatos/datos) by Riva Quiroga,
   Edgar Ruiz, Mauricio Vargas, Mauro Lepore, Rayna Harris, Daniela
   Vasquez, Joshua Kunst
+- [deggust](https://github.com/emitanaka/deggust) by Emi Tanaka
 - [DescribeDisplay](https://github.com/ggobi/DescribeDisplay) by Dianne
   Cook, Hadley Wickham, Andreas Buja, Barret Schloerke
 - [devtools](https://github.com/r-lib/devtools) by Hadley Wickham, Jim
   Hester, Winston Chang, Jennifer Bryan, Posit Software, PBC
 - [dials](https://github.com/tidymodels/dials) by Max Kuhn, Hannah
   Frick, Posit Software, PBC
+- [dir](https://github.com/emitanaka/dir) by Emi Tanaka
 - [distory]() by John Chakerian, Susan Holmes, Emmanuel Paradis
 - [dmrseq]() by Keegan Korthauer, Rafael Irizarry, Yuval Benjamini,
   Sutirtha Chakraborty
@@ -318,6 +324,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [ecotourism](https://github.com/vahdatjavad/ecotourism) by Dianne
   Cook, Lyn Cook, Javad Vahdat Atashgah
 - [edibble](https://github.com/emitanaka/edibble) by Emi Tanaka
+- [emaxnls](https://github.com/djnavarro/emaxnls) by Danielle Navarro
+- [emend](https://github.com/anuopensci/emend) by Emi Tanaka, Jiajia Li
 - [emmeans](https://github.com/rvlenth/emmeans/) by Russell V. Lenth,
   Julia Piaskowski, Balazs Banfai, Ben Bolker, Paul Buerkner, Iago
   Giné-Vázquez, Maxime Hervé, Maarten Jung, Jonathon Love, Fernando
@@ -329,7 +337,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [EPACmodel](https://github.com/phac-modelling-hub/EPACmodel) by Irena
   Papst, Michael WZ Li
 - [EpiGenR](https://github.com/lucymli/EpiGenR) by Lucy M Li
+- [erglm](https://github.com/djnavarro/erglm) by Danielle Navarro
 - [ern]() by David Champredon, Warsame Yusuf, Irena Papst
+- [erplots](https://github.com/djnavarro/erplots) by Danielle Navarro
+- [ertte](https://github.com/djnavarro/ertte) by Danielle Navarro
 - [escrocR](https://github.com/Irstea/escroc) by Hilaire Drouineau,
   Marine Ballutaud, Jeremy Lobry
 - [ESPA](https://github.com/PratheepaJ/ESPA) by Jeganathan Pratheepa,
@@ -412,6 +423,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC
 - [googlesheets4](https://github.com/tidyverse/googlesheets4) by
   Jennifer Bryan, Posit Software, PBC
+- [granular](https://github.com/csiro-crop-informatics/granular) by Alex
+  Whan, Emi Tanaka
 - [gtreg](https://github.com/shannonpileggi/gtreg) by Shannon Pileggi,
   Daniel D. Sjoberg
 - [gtsummary](https://github.com/ddsjoberg/gtsummary) by Daniel D.
@@ -445,6 +458,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Marvian Mashhad
 - [hellodatascience](https://github.com/hellodata-science/hellodatascience)
   by Mine Dogucu, Catalina Medina, Alma Castro
+- [heritable](https://github.com/anu-aagi/heritable) by Emi Tanaka, Yidi
+  Deng, Fonti Kar, Weihao, Paul Schmidt
 - [hexify](https://github.com/djnavarro/hexify) by Danielle Navarro
 - [hicream](https://forge.inrae.fr/scales/hicream/-) by Elise Jorge,
   Sylvain Foissac, Toby Hocking, Pierre Neuvial, Nathalie Vialaneix,
@@ -480,6 +495,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Danielle Navarro
 - [JTHelpers](https://github.com/jenniferthompson/JTHelpers) by Jennifer
   Thompson, Cole Beck, Zhiguo Zhao
+- [jugglr](https://github.com/EllaKaye/jugglr) by Ella Kaye
 - [Kmisc](https://github.com/sysilviakim/Kmisc) by Seo-young Silvia Kim
 - [learningtower](https://github.com/kevinwang09/learningtower) by Kevin
   Wang, Paul Yacobellis, Erika Siregar, Sarah Romanes, Kim Fitter,
@@ -505,7 +521,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Ragwitz, Greg Sutcliffe, Rick Pack, Ben Ubah, Maëlle Salmon, Barret
   Schloerke, RLadies+
 - [memer](https://github.com/sctyner/memer) by Sam Tyner, Haley Jeppson
+- [mesoda](https://github.com/paocorrales/mesoda) by Paola Corrales
 - [messy](https://github.com/nrennie/messy) by Nicola Rennie
+- [metaextractoR](https://github.com/danyangdai/metaextractoR) by
+  Danyang Dai, Emi Tanaka, Jason Pole
 - [metaRNASeq]() by Guillemette Marot, Andrea Rau, Florence Jaffrezic,
   Samuel Blanck
 - [methylCC](https://github.com/stephaniehicks/methylCC/) by
@@ -537,6 +556,11 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Silva
 - [monochromeR](https://github.com/cararthompson/monochromeR) by Cara
   Thompson
+- [moodlequiz](https://github.com/numbats/moodlequiz) by Mitchell
+  O’Hara-Wild, Emi Tanaka
+- [moosecounter](https://github.com/psolymos/moosecounter) by Subhash
+  Lele, Sophie Czetwertynski, Peter Solymos, Steffi LaZerte, Government
+  of Yukon
 - [mortAAR](https://github.com/ISAAKiel/mortAAR) by Nils
   Mueller-Scheessel, Martin Hinz, Clemens Schmid, Christoph Rinne,
   Daniel Knitter, Wolfgang Hamer, Dirk Seidensticker, Franziska Faupel,
@@ -553,7 +577,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Rivers, Han Oostdijk, Patrick Schratz
 - [naturecounts](https://github.com/BirdsCanada/naturecounts) by Steffi
   LaZerte, Denis Lepage
-- [nestr]() by Emi Tanaka
+- [nestr](https://github.com/emitanaka/nestr) by Emi Tanaka
 - [nettskjemar](https://github.com/CAPRO-UiO/nettskjemar) by Athanasia
   Mo Mowinckel, Trym Nohr Fjørtoft
 - [neuromapr](https://github.com/lcbc-uio/neuromapr) by Athanasia Mo
@@ -658,6 +682,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S.
   Talagala
 - [rainbowr](https://github.com/djnavarro/rainbowr) by Danielle Navarro
+- [rambutan](https://github.com/drmowinckels/rambutan) by Athanasia Mo
+  Mowinckel
 - [RCMIP5](https://github.com/ktoddbrown/RCMIP5) by Ben Bond-Lamberty,
   Kathe Todd-Brown
 - [rddapp]() by Ze Jin, Wang Liao, Irena Papst, Wenyu Zhang, Kimberly
@@ -721,6 +747,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Alvaro Uzaheta, JooYoung Seo, Callum Arnold, Rob Hyndman, Dmytro
   Perepolkin, Tom Palmer
 - [RUVcorr]() by Saskia Freytag
+- [rvad](https://github.com/paocorrales/rvad) by Paola Corrales, Elio
+  Campitelli
 - [saguaRo](https://github.com/sborrego/saguaRo) by Stacey Borrego
 - [scDD](https://github.com/kdkorthauer/scDD) by Keegan Korthauer
 - [scShapes](https://github.com/Malindrie/scShapes) by Malindrie
@@ -740,7 +768,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   der Meer, Lorena Abad, Andrea Gilardi, Robin Lovelace
 - [ShapeRotator](https://github.com/marta-vidalgarcia/ShapeRotator) by
   Marta Vidal-Garcia, Lashi Bandara, J. Scott Keogh
-- [shinycustomloader]() by Emi Tanaka and Niichan
+- [shinycustomloader](https://github.com/emitanaka/shinycustomloader) by
+  Emi Tanaka and Niichan
 - [shinyfa](https://github.com/dalyanalytics/shinyfa) by Jasmine Daly
 - [shinyLP](https://github.com/jasdumas/shinyLP) by Jasmine Daly
 - [shinymatic](https://github.com/karbartolome/shinymatic) by Karina
@@ -759,6 +788,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Saibene, Elio Campitelli, Paola Corrales
 - [SISIR](https://forgemia.inra.fr/sfcb/sisir/-) by Victor Picheny, Remi
   Servien, Nathalie Vialaneix
+- [sketchpad](https://github.com/djnavarro/sketchpad) by Danielle
+  Navarro
 - [skimr](https://github.com/ropensci/skimr/) by Elin Waring, Michael
   Quinn, Amelia McNamara, Eduardo Arino de la Rubia, Hao Zhu, Julia
   Lowndes, Shannon Ellis, Hope McLeod, Hadley Wickham, Kirill Müller,
@@ -884,6 +915,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Posit Software, PBC
 - [vultureUtils](https://github.com/kaijagahm/vultureUtils) by Kaija
   Gahm
+- [waeponwifestre](https://github.com/djnavarro/waeponwifestre) by
+  Danielle Navarro
 - [washi](https://github.com/WA-Department-of-Agriculture/washi) by
   Jadey Ryan, Molly McIlquham, Dani Gelardi, Washington State Department
   of Agriculture
@@ -907,6 +940,8 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 - [woylier](https://github.com/numbats/woylier) by Zola Batsaikan,
   Dianne Cook, Ursula Laa
 - [XICOR]() by Susan Holmes, Sourav Chatterjee
+- [yowie](https://github.com/numbats/yowie) by Dewi Amaliah, Di Cook,
+  Emi Tanaka, Kate Hyde, Nicholas Tierney
 - [zalpha]() by Clare Horscroft, Clare Horscroft
 
 ## License
