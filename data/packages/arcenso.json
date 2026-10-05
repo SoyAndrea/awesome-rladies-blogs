@@ -1,7 +1,7 @@
 {
   "name": "arcenso",
   "title": "Data from Argentina’s Population Census",
-  "description": "Provides access to tidy and curated data from Argentina's official population censuses, covering national totals and subnational data for the 24 jurisdictions. The package is designed to facilitate the exploration and reuse of historical census information through tools for data retrieval, validation, and interactive visualization.",
+  "description": "Provides access to tidy and curated data from Argentina's official population censuses, currently covering 1970 (national and subnational) and 1980 (national level). The package is designed to facilitate the exploration and reuse of historical census information through tools for data retrieval, validation, and interactive visualization.",
   "repo_url": "https://github.com/SoyAndrea/arcenso",
   "pkdown_url": "https://soyandrea.github.io/arcenso",
   "bug_reports_url": "https://github.com/SoyAndrea/arcenso/issues",
